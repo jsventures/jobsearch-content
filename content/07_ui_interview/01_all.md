@@ -42,22 +42,22 @@ To get good at doing all this, we suggest you schedule 2-3 practice interviews w
 ### Homework
 1. Set up Codepen with your environment. Go to codepen.io, and create a new pen. Try to set up the environment that you normally use (For example — React + Babel). You can do this by clicking on Settings, and adding the right library. Your goal is to render “hello world”
 2. Get comfortable building UIs. Here are sample problems to work through
-  * Create Tic-Tac-Toe
-  * Create a Trello Board
-    * Allow creating boards
-    * Allow creating cards
-    * Allow editing cards
-    * Allow moving cards
-    * **Bonus: Allow drag and drop**
-  * Draw a sudoku board. This is a 9x9 grid, with each 3x3 square colored differently. Part two, given a 2D array with sudoku solution, render the board with the values and highlight any invalid rows, columns, or squares.
-  * Create a Credit Card Input. As you enter the numbers, it should add spaces after every 4th digit
-  * Create an event emitter. Think about what is the right data structures to use here? All of your calls — subscribe, unsubscribe should be O(1). See demo code below for expected behavior
-  * Create a popover component
-  * If you’re comfortable with these, ask yourself — what do you want to learn? Create a quick project for that
+    * Create Tic-Tac-Toe
+    * Create a Trello Board
+        * Allow creating boards
+        * Allow creating cards
+        * Allow editing cards
+        * Allow moving cards
+        * **Bonus: Allow drag and drop**
+    * Draw a sudoku board. This is a 9x9 grid, with each 3x3 square colored differently. Part two, given a 2D array with sudoku solution, render the board with the values and highlight any invalid rows, columns, or squares.
+    * Create a Credit Card Input. As you enter the numbers, it should add spaces after every 4th digit
+    * Create an event emitter. Think about what is the right data structures to use here? All of your calls — subscribe, unsubscribe should be O(1). See demo code below for expected behavior
+    * Create a popover component
+    * If you’re comfortable with these, ask yourself — what do you want to learn? Create a quick project for that
 3. [Get good at debugging][debugging]
 4. Catch up on the latest and greatest of JS
-  * [Wes Bos’s courses][wesbos] are great — search up on youtube anything you’re curious about — search up talks
-  * [Check out][treebo] some [interesting articles][twitter-lite] and start to go deep from there
+    * [Wes Bos’s courses][wesbos] are great — search up on youtube anything you’re curious about — search up talks
+    * [Check out][treebo] some [interesting articles][twitter-lite] and start to go deep from there
 5. Schedule 2-3 mock interviews with friends to do over Codepen
 
 

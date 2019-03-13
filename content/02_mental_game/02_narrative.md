@@ -41,7 +41,7 @@ As you answer these questions, you’ll uncover the exciting path you’ve been 
 ### Homework
 Take a moment to reflect about your journey. What are your answers to these questions?
 
-* “*Why did you join your last job?”*
-* “What did you do there”
-* “*Why are you leaving?”*
-* “*What are you looking for in your next job?”*
+* Why did you join your last job?
+* What did you do there
+* Why are you leaving?
+* What are you looking for in your next job?
