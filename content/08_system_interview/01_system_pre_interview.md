@@ -16,3 +16,4 @@ When you’re about to start the interview, take a moment, and imagine you are a
 Your goal at the end of 45 minutes is to **have that roadmap** — something that can be divided up between a team, with open todos and a plan forward.
 
 When you mindset is I am solving a **real problem** the rest of the interview will start off strong.
+

@@ -36,3 +36,4 @@ With that, we’ve reached the end of commitment — you now have the attitude, 
 Question for you:
 
 How will you approach the job search? When will you study? What will you do about the execution phase?
+

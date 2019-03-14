@@ -1,4 +1,4 @@
-# Experience Interview: Communicate Leveling
+## Experience Interview: Communicate Leveling
 One of your interviewer’s goals is to suss out your leadership experience. The main way they do this is by extracting *scope* from your answers.
 
 Suppose you are asked "tell me a time where you made a design decision that you later regretted?" Let's go over some possible answers.
@@ -16,3 +16,4 @@ Answer: I owned a suite of services, and spent so much time maintaining them, th
 Scope: You are communicating your leadership across the org — the scope of an L6 engineer
 
 Again, the way this is parsed is indirect, so the key to communicating this signal is your homework in **Communication.** If you have a good sense of the leveling guide (and you did the exercises of writing up examples of what you did for your level as well as the one above it) the stories you tell will naturally communicate leveling.
+

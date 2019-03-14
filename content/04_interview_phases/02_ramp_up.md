@@ -40,3 +40,4 @@ If you absolutely can't think of a way to get a referral, feel free to send in a
 * Craft a resume conveying signal for your target level. Have friends look over it.
 * Reach out to your network and get referrals. Send direct applications as a last resort
 * Create an external status document and an internal progress document for tracking your job search.
+

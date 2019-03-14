@@ -63,3 +63,4 @@ These are really hard questions and you may never be asked them in your process.
 When doing these problems, set a timer for 20 minutes and try to solve each question on your own. Look at the solution if you finish or time runs out -- spend as much time as you need to understand the answer. There are a lot of tricks and concepts to learn, take the time to internalize them. Once you know the trick, future problems will be easier. Your goal isn't to see and memorize every problem / solution. Instead, your focus should be to increase your bag of tricks and sharpen your problem solving abilities. Follow the pattern of coming up with an approach, implementing it, and running your code against test cases.
 
 By going through lots of problems in different areas you will be ready to take on anything.
+

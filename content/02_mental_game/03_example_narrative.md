@@ -34,3 +34,4 @@ I know that at the end of the day I want to start a company. At first, I thought
 **Product Growth:** I was fortunate to have immense support at Facebook to build new products. However, one thing with building an API for NLP is that it’s not often highly critical to the customer. I could grow building a product that is essential for customers, and essential for the business.
 
 **People Growth:** This, I want to continue from my time at Facebook. I want to work with people who are on a mission, and know why they come into work each day. I want us to become a mafia, to support empower each other. Spending 2 more years growing my community, will pay immense dividends down the road.
+

@@ -17,3 +17,4 @@ Second, level is the biggest deciding factor in compensation. Once your level is
 Spend about 1 hour looking through the leveling doc. Answer, which section most speaks to the kind of work you have done? Now take that level, as well as the one above it, and for as many points as you can, list briefly the work you’ve done that matches, or why you believe that you match that.
 
 Our main advice for you — be ambitious, and let your work speak for itself — the more evidence you have, the more conviction you will have, and the higher the signal you will be able to convey. If you notice that you are close to the level above what you thought, you may want to think hard about going for it!
+

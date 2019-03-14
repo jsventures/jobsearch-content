@@ -15,3 +15,4 @@ After the onsite, update your status and progress documents. Similar to the scre
 Timing-wise, we recommend you batch all your onsites over a two to three week period. You should start your onsites after you've completed all your screens. Two to three onsites per week is a good cadence. If confident, feel free to go up to four a week. Beware of burnout though -- onsites take a lot of energy. You want to ensure you are upbeat and energetic for each one. If possible, try to have at least one day in-between onsites to rest and reflect.
 
 After you've completed all your onsites it's onto choosing where you want to work and ultimately negotiating the right package!
+

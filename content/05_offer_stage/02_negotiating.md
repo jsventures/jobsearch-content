@@ -4,7 +4,9 @@ In our opinion the best negotiations are short and concise. We recommend to do t
 ```
 Hi Recruiter,
 
-I'm ready to make my decision. The choice is between you and competing offer. If we can get the following package I will be ready to sign immediately.
+I'm ready to make my decision. The choice is between you and
+competing offer. If we can get the following package I will be
+ready to sign immediately.
 
 Base: Number
 Equity: Number
@@ -29,7 +31,7 @@ This can be very hard to do, but ultimately one of the most powerful things you 
 
 This strategy is not limited to just compensation. Suppose you were leveled lower at dream company vs good company but overall compensation was comparable (or even higher at dream company). However you evaluate that the expectations, responsibilities, and growth at good company would be higher. If those things are important enough to you, ask yourself whether you are willing to walk away from dream company. If so, let your recruiter know that without the higher level you cannot accept.
 
-For more tips we recommend you loop up [pattio11's salary negotiation article][patio11] as well as other negotiation resources. An hour or two of research could you net you an addition $100,000+ -- definitely worth your time!
+For more tips we recommend you loop up [pattio11's salary negotiation article][negotiate] as well as other negotiation resources. An hour or two of research could you net you an addition $100,000+ -- definitely worth your time!
 
 ### A word on exploding offers
 This is an unfortunate tactic used to close a candidate and prey on their fear that the offer may fall through. Hiring good people is hard. The company has already heavily invested in you by having you go through their process. They will not rescind if you need more time. Be polite but firm with your recruiter about your needs and expectations.
@@ -38,4 +40,5 @@ Once you have negotiated a package that you are willing to sign, ask your recrui
 
 If you've made it this far and signed -- congratulations! An exciting new adventure awaits you. All that is left on your part is concluding / sharing the news with your community.
 
-[patio11]: https://www.kalzumeus.com/2012/01/23/salary-negotiation/
+[negotiate]: https://www.kalzumeus.com/2012/01/23/salary-negotiation/
+

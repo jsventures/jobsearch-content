@@ -38,3 +38,4 @@ At this point, you’ll be very busy with onsites, so no homework. Keep a log of
 - Watch the Offer Stage Module
 
 You’re in the final mile now. Time to finish strong. Complete the homework, and keep up the vigilance. Once you sign, send us your notes, and if you have any suggestions for the course!
+

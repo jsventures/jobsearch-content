@@ -7,3 +7,4 @@ After your onsites you may find yourself in the fortunate yet uncertain position
 * Create a choosing document. After going through the above, create a document where you summarize all pros, cons, and thoughts. Writing things down will force you to synthesize everything and determine why a company is right for you.
 
 This may seem like a lot of extra work. In some ways it is. There is no need to do the above if the choice is already clear to you. However, if you are unsure, take your time -- it's worth it.
+

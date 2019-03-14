@@ -22,3 +22,4 @@ There is a *language* in the interview process, and a *purpose* behind what recr
 In this module, we’ll learn this language. This is the language of signal, scope, and leveling. Once you learn this it, you’ll see every single interaction in the job search differently — you’ll know the purpose, and have the tools to communicate *exactly* what makes you a phenomenal candidate, in each step of the process.
 
 Are we ready? Let’s get into this.
+

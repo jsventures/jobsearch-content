@@ -1,4 +1,4 @@
-## Takeaways
+# Takeaways
 Here are our top takeaways from the course:
 
 1. Referrals. These are the best way to get noticed and start the process. Direct applications should be your last resort
@@ -12,4 +12,5 @@ Here are our top takeaways from the course:
 9. Always be classy. Even if a recruiter forgets to call you, gives you unexpected news, gives you an exploding offer, etc. Carry yourself with class and be firm with your expectations. This behavior will set you apart and communicate your strength and seniority.
 10. Be kind to yourself. Interviewing is hard. Sometimes things won't go as well as you like. Don't beat yourself up. Maintain a positive dialogue with yourself. Do your best and be proud.
 
-We hope you find this course useful! Go forth, get your dream job and an amazing package.
+We hope you found this course useful! Go forth, get your dream job and an amazing package.
+

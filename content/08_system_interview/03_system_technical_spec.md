@@ -26,3 +26,4 @@ This kind of problem is almost **the whole purpose of the interview.** Detecting
 The key realization is this: you don’t need to solve these problems at this moment yet. Instead, say the problem that comes to mind, the interviewer will either clarify what they expect, or you can note it down to handle later when you get to the API.
 
 Once you're done with the technical spec, every screen you drew out should be supported by your system.
+

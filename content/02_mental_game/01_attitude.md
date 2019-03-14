@@ -1,6 +1,5 @@
-## Attitude
-Most people dread the job search. They may think they are being judged, or they may think that, the process is silly.
-You’ll hear “Interview questions don’t measure your real performance”, or “Agh, I just want this to be over with”.
+##  Attitude
+Most people dread the job search. They may think they are being judged, or they may think that, the process is silly.  You’ll hear “Interview questions don’t measure your real performance”, or “Agh, I just want this to be over with”.
 
 This kind of attitude causes a self-fulfilling prophecy. When you dread something, or if you think it’s silly, you spend very little time on it. If you spend very little time on it, your results will reflect — you’ll see negative interview experiences, negative recruiter conversations, and it will all feeds back into your attitude. Now, if this makes you take the first job you see, because “you want this to be over with”,  and it’s not the best opportunity for you, you’ve just paid a high price for this attitude.
 
@@ -31,3 +30,4 @@ Change your attitude, and it will make everything else easier.
 Question for you:
 
 How would you describe your previous approach to the job search? How are you seeing it differently now? Do you have any hangups still? What are you doing to work through them?
+

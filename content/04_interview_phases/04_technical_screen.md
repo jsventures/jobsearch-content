@@ -10,3 +10,4 @@ This pattern of intro, technical questions, and follow-up questions will repeat 
 Timing-wise, We recommend you do all your screens over a two to three week period with at most one screen a day at first and potentially two to three screens in a day later on once you feel confident in your performance. Schedule your screens so that you interview with your top choices last.
 
 If you pass the technical screen the next step is the onsite!
+

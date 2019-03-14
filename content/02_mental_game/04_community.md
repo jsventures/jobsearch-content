@@ -33,3 +33,4 @@ For the homework, we'll *build your team.* Follow those steps, and you’ll be w
     * What tools are they using to prepare?
     * What do they think of your narrative?
     * Do they have any suggestions for companies that match it? Again, do not look for a referral here — if they offer, let them know you are still in exploration phase, and will update them in a bit
+

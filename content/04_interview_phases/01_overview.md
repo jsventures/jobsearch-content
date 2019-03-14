@@ -19,3 +19,4 @@ The onsite loop typically lasts between 4-7 hours and consists of multiple inter
 
 ### Offer stage
 You've made it this far, congratulations! There are no more interviews for you to pass. Your objective at this stage is to determine whether this is the right opportunity for you, and if yes, to negotiate the best package that makes you happy and excited to sign.
+

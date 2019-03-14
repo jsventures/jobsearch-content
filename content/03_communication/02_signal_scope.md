@@ -42,3 +42,4 @@ In the next sections, we’ll learn exactly *how* to communicate signal and scop
 
 ### Homework
 No real homework here — we want to get you thinking — if you’ve had an interview already, how do you think you’ve been communicating? Do you think you have been sending the right signals, or were you missing something?
+

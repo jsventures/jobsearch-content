@@ -14,3 +14,4 @@ But, they can ask you indirectly — "tell me a time where you made a design dec
 The homework in **The Mental Game** will help you convey yourself well.
 
 If you have a strong narrative, your motivation and proactivity will come through. It isn’t possible to prepare for every question, but if you are centered, most of the signal will take care of itself.
+

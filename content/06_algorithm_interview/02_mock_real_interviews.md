@@ -18,3 +18,4 @@ There should be no surprises during the real interview if you've put in the time
 
 ### Conclusion
 You should now have an idea of where the bar is at and how to get there. It may seem like a lot of work to solve contrived puzzles that ambiguously correlate to technical ability. This may be true -- but this mindset won't help you succeed in this interview. Instead, we hope you find some excitement in solving these algorithm problems. The algorithm interview is like a game. The objectives are clearly defined and all the preparation material is available beforehand. It's up to you to put in the time to win it. Study hard and have fun!
+

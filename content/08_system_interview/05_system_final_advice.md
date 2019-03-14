@@ -26,3 +26,4 @@ Now you’re ready for the system design interview, here’s to becoming a great
 [pinterest]: https://www.infoq.com/presentations/Pinterest
 [twitter]: https://www.infoq.com/presentations/Twitter-Timeline-Scalability
 [rich-hickey]:  https://m.stopa.io/favorite-rich-hickey-talks-6bcb23da6ff2
+
