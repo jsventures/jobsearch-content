@@ -7,9 +7,11 @@ BUILD_DIR = 'build'
 
 BUILDER = 'builder.mdpp'
 PREPROCESS = 'preprocessed.md'
-BOOK_OUTPUT = 'Mastering The Job Search.pdf'
+BOOK_OUTPUT = 'job_search.pdf'
+METADATA = 'metadata.yaml'
 
 BUILDER_PATH = $(BUILDER)
+META_PATH = $(METADATA)
 PREPROCESSED_PATH = $(BUILD_DIR)/$(PREPROCESS)
 BOOK_PATH = $(BUILD_DIR)/$(BOOK_OUTPUT)
 
@@ -25,7 +27,7 @@ pre-process:
 
 md-to-pdf:
 	@echo "Converting md to pdf..."
-	pandoc -o $(BOOK_PATH) $(PREPROCESSED_PATH) \
+	pandoc -o $(BOOK_PATH) $(META_PATH) $(PREPROCESSED_PATH) \
 		--toc --toc-depth=2 \
 		--include-in-header titlesec.tex
 
