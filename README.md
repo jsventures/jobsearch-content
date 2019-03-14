@@ -24,7 +24,7 @@ sudo tlmgr install titlesec
 pip install markdown-pp
 ```
 
-After installing you can generate a fresh copy of the book by running
+After installing all dependencies you can re-generate a fresh copy of the book by running
 ```
 make book
 ```
