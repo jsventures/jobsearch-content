@@ -1,8 +1,8 @@
 # Senior Engineer Job Search Content
 Repo for the text accompaniment for www.jobsearch.dev
 
-### Building the PDF
-Building the pdf requires the following (examples given for OSX machines):
+### Building the e-book
+Building the e-book requires the following (examples given for OSX machines):
 
 ```
 # Install pandoc
@@ -30,3 +30,9 @@ make book
 ```
 
 The book should now open up in preview. If it doesn't you can find it under the `build` folder
+
+### Building transcripts
+You can build all the transcripts individually by running the following command
+```
+make transcripts
+```
