@@ -32,7 +32,11 @@ make book
 The book should now open up in preview. If it doesn't you can find it under the `build` folder
 
 ### Building transcripts
-You can build all the transcripts individually by running the following command
+You can build all the transcripts by running the following command
 ```
-make transcripts
+make all-transcripts
+```
+You can build an individual transcript by doing the following
+```
+FILE=path/to/raw/file.md make transcript
 ```
