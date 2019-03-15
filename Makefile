@@ -22,8 +22,9 @@ BOOK_OUTPUT = 'job_search.pdf'
 METADATA = 'metadata.yaml'
 BUILDER_PATH = $(BUILDER)
 META_PATH = $(METADATA)
-PREPROCESSED_PATH = $(BUILD_DIR)/$(PREPROCESS)
-BOOK_PATH = $(BUILD_DIR)/$(BOOK_OUTPUT)
+BOOK_DIR = $(BUILD_DIR)/book
+PREPROCESSED_PATH = $(BOOK_DIR)/$(PREPROCESS)
+BOOK_PATH = $(BOOK_DIR)/$(BOOK_OUTPUT)
 
 clean:
 	@echo "Deleting files..."
@@ -48,6 +49,7 @@ book:
 	# Used for building book
 	@echo "Creating book..."
 	mkdir -p $(BUILD_DIR)
+	mkdir -p $(BOOK_DIR)
 	$(MAKE) pre-process
 	$(MAKE) md-to-pdf
 	open $(BOOK_PATH)
