@@ -1,7 +1,7 @@
 MAKEFLAGS = --no-print-directory --always-make --silent
 MAKE = make $(MAKEFLAGS)
 
-.PHONY: clean pre-process md-to-pdf book transcripts
+.PHONY: clean pre-process md-to-pdf book all-transcripts transcript
 
 # Raw content files
 RAW_CONTENT_DIR = 'content'
