@@ -7,5 +7,9 @@ Ask questions from your list you prepared earlier and really try to find out if 
 
 For example, if you really care about having a large scope you can ask — "what if I wanted to start a project that goes past my manager, how is it like doing that?" Your interviewer will gain further signal on your initiative.
 
-Remember though, your goal here is to actually get a sense if you want to work here.
+Remember though, your goal here is to actually get a sense if you want to work here. Do not try to pretend. Simply own exactly where you are at — pretending will come through. What you’re trying to do is to find a job that fits with you, and this is exactly the interview to do that.
 
+Now, you’re ready for the experience interview!
+
+### Homework
+* Ensure you’ve done your homework in Mental Game and Communication
