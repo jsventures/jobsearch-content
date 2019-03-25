@@ -66,8 +66,32 @@ By going through lots of problems in different areas you will be ready to take o
 
 ### Homework
 * Read chapters I-VII of CTCI
-* Complete foundations in either CTCI or EPI
-* Solve example bar questions on [LeetCode][leetcode]
+* Get your foundations by reading the following chapters in either CTCI or EPI
+    * Strings
+    * Arrays
+    * Linked Lists
+    * Stacks / Queues
+    * Heaps
+    * Trees
+    * Hash Tables
+    * Searching
+    * Sorting
+    * Recursion
+    * Dynamic Programming
+    * Greedy Algorithms
+    * Graphs
+    * Bitwise Operators
+* Solve sample questions that match the interviewing bar difficulty by searching the following on [LeetCode][leetcode].
+    * Merge Intervals
+    * Meeting Rooms
+    * Number of Islands
+    * Spiral Matrix
+    * Coin Change
+    * Parse Lisp Expression
+    * Implement LRU Cache
+    * Text Justification
+    * Wildcard Matching
+    * Minimum Window Substring
 
 [leetcode]: www.leetcode.com
 

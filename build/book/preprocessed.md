@@ -561,11 +561,11 @@ Do your research on the company and their ranges for your level. [Levels.fyi][ne
 This is one of the strongest forms of leverage you have. If you have offers from other competitive companies you should certainly let your recruiter know. This will allow them to make a strong case to the compensation team to approve your package. Even if the other offers are lower they may bump up your package to close you
 
 ### Be willing to walk away
-This can be very hard to do, but ultimately one of the most powerful things you can do for negotiations. It is also extreme and should be a last resort. Do not do this unless you are truly centered on walking away if your expectations are not met. Suppose you have an offer from your dream company which is lower than an offer from another good company. In this scenario dream company won't budge -- assume this is final. After factoring everything in, are you truly willing to walk away? If instead your expectations were met would you sign immediately? If you answered yes to both questions, let your recruiter know that you can't take the offer unless your expectations are met. At this point feel free to hop on a call, since you're now centered on your decision you will be free from any fear. Your resolve will communicate strength. The ball is entirely in their court.
+This can be very hard to do, but ultimately one of the most powerful things you can do for negotiations. It is also extreme and should be a last resort. Do not do this unless you are truly centered on walking away if your expectations are not met. Suppose you have an offer from your dream company which is lower than an offer from another good company. In this scenario dream company won't budge -- assume this is final. After factoring everything in, are you truly willing to walk away? If instead your expectations were met would you sign immediately? If you answered yes to both questions, let your recruiter know that you can't take the offer unless your package is bumped up. At this point feel free to hop on a call, since you're now centered on your decision you will be free from any fear. Your resolve will communicate strength. The ball is entirely in their court.
 
 This strategy is not limited to just compensation. Suppose you were leveled lower at dream company vs good company but overall compensation was comparable (or even higher at dream company). However you evaluate that the expectations, responsibilities, and growth at good company would be higher. If those things are important enough to you, ask yourself whether you are willing to walk away from dream company. If so, let your recruiter know that without the higher level you cannot accept.
 
-For more tips we recommend you loop up [pattio11's salary negotiation article][negotiate] as well as other negotiation resources. An hour or two of research could you net you an additional $50,000+ -- definitely worth your time!
+For more tips we recommend you loop up [pattio11's salary negotiation article][negotiate] as well as other negotiation resources. An hour or two of research could you net you an additional $100,000+ -- definitely worth your time!
 
 ### A word on exploding offers
 This is an unfortunate tactic used to close a candidate and prey on their fear that the offer may fall through. Hiring good people is hard. The company has already heavily invested in you by having you go through their process. They will not rescind if you need more time. Be polite but firm with your recruiter about your needs and expectations.
@@ -663,8 +663,32 @@ By going through lots of problems in different areas you will be ready to take o
 
 ### Homework
 * Read chapters I-VII of CTCI
-* Complete foundations in either CTCI or EPI
-* Solve example bar questions on [LeetCode][leetcode]
+* Get your foundations by reading the following chapters in either CTCI or EPI
+    * Strings
+    * Arrays
+    * Linked Lists
+    * Stacks / Queues
+    * Heaps
+    * Trees
+    * Hash Tables
+    * Searching
+    * Sorting
+    * Recursion
+    * Dynamic Programming
+    * Greedy Algorithms
+    * Graphs
+    * Bitwise Operators
+* Solve sample questions that match the interviewing bar difficulty by searching the following on [LeetCode][leetcode].
+    * Merge Intervals
+    * Meeting Rooms
+    * Number of Islands
+    * Spiral Matrix
+    * Coin Change
+    * Parse Lisp Expression
+    * Implement LRU Cache
+    * Text Justification
+    * Wildcard Matching
+    * Minimum Window Substring
 
 [leetcode]: www.leetcode.com
 
