@@ -4,7 +4,7 @@ To best utilize this course, we’ve prepared a 3-month study plan for you
 ### W1: Foundations, Key Concepts, Ramp-Up
 - Watch and complete the homework for Foundations, Key Concepts, and Ramp-Up
 
-At this point, you should have a strong narrative, a team, and a list of companies. You should have reached out to your referrals, and began to set recruiter screens
+At this point, you should have a strong narrative, a team, and a list of companies. You should have reached out to your referrals, and began to set up recruiter screens
 
 
 ### W2-3: Recruiter Screens, Start Preparing for Technical Screens

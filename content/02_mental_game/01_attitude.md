@@ -1,7 +1,7 @@
 ##  Attitude
 Most people dread the job search. They may think they are being judged, or they may think that, the process is silly.  You’ll hear “Interview questions don’t measure your real performance”, or “Agh, I just want this to be over with”.
 
-This kind of attitude causes a self-fulfilling prophecy. When you dread something, or if you think it’s silly, you spend very little time on it. If you spend very little time on it, your results will reflect — you’ll see negative interview experiences, negative recruiter conversations, and it will all feeds back into your attitude. Now, if this makes you take the first job you see, because “you want this to be over with”,  and it’s not the best opportunity for you, you’ve just paid a high price for this attitude.
+This kind of attitude causes a self-fulfilling prophecy. When you dread something, or if you think it’s silly, you spend very little time on it. If you spend very little time on it, your results will reflect — you’ll see negative interview experiences, negative recruiter conversations, and it will all feed back into your attitude. Now, if this makes you take the first job you see, because “you want this to be over with”,  and it’s not the best opportunity for you, you’ve just paid a high price for this attitude.
 
 **Now, how do the best candidates see this?**
 
@@ -13,7 +13,7 @@ Why?
 This is the point where you have the most leverage to affect what you do. Do you have any gripes in your old job? Anything you dream of doing? If you wanted to take on more responsibility or work on different problems, this is your chance!
 
 ### Level up your Compensation
-Compensation is accelerating. You might be very surprised with what the market rate is now. Your responsibilities could have grown too, which means you might be be mis-leveled at your current job. This is your chance to see a step function in your salary — from our friend circles we’ve seen people get between 30% - 100% higher packages.
+Compensation is accelerating. You might be very surprised with what the market rate is now. Your responsibilities could have grown too, which means you might be mis-leveled at your current job. This is your chance to see a step function in your salary — from our friend circles we’ve seen people get between 30% - 100% higher packages.
 
 ### For Leveling up your Community
 As you go through the job search, you will meet new people. All the managers you meet, all the interviewers, all the recruiters, they now know you more intimately, and they will have become part of your community.

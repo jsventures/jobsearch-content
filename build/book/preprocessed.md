@@ -6,7 +6,7 @@ Joe: Hey everyone, my name is Joe.
 Stepan: And my name is Stepan.
 
 
-Joe: Thank you for investing in our course! We’re excited to help you land your dream offer. In this video, we’ll tell you a bit about us and what you can expect from this course.
+Joe: Thank you for investing in our course! We’re excited to help you land your dream offer. In this section, we’ll tell you a bit about us and what you can expect from this course.
 
 
 Stepan:
@@ -38,10 +38,10 @@ Stepan: We started sharing this with our friends, and began to notice real chang
 Joe: Our goal in this course is to give you the roadmap and the lessons you’ll need to complete a phenomenal job search.
 
 
-Stepan: To use this course effectively, start with the study guide. There, you’ll learn how you can layer these videos, to get the best out of the course.
+Stepan: To use this course effectively, start with the study guide. There, you’ll learn how you can layer the content, to get the best out of the course.
 
 
-Joe: Throughout most videos you’ll see homework. The homework is what’s going to truly make the difference.
+Joe: Throughout most sections you’ll see homework. The homework is what’s going to truly make the difference.
 
 
 Stepan: If you follow along, and truly give it an honest effort, you’ll come across more confident to recruiters, significantly improve your performance in the interview, and grow as an engineer.
@@ -56,7 +56,7 @@ Stepan: We put our heart into this, and we hope you love this course. Without fu
 This course is designed for the following candidates:
 
 * Software Engineers specializing in front-end, back-end, or full-stack web development
-* Located in San Francisco / Bay Area
+* Located in major tech hubs in the US
 * Looking for individual contributor roles, ranging from junior to staff level (E4 - E6 at Google/Facebook)
 * Interviewing at pre-IPO or public tech companies (Uber, Lyft, Airbnb, Facebook, Google, Amazon, etc.)
 
@@ -66,7 +66,7 @@ To best utilize this course, we’ve prepared a 3-month study plan for you
 ### W1: Foundations, Key Concepts, Ramp-Up
 - Watch and complete the homework for Foundations, Key Concepts, and Ramp-Up
 
-At this point, you should have a strong narrative, a team, and a list of companies. You should have reached out to your referrals, and began to set recruiter screens
+At this point, you should have a strong narrative, a team, and a list of companies. You should have reached out to your referrals, and began to set up recruiter screens
 
 
 ### W2-3: Recruiter Screens, Start Preparing for Technical Screens
@@ -111,7 +111,7 @@ Are you ready? Without further ado, let’s master the mental game!
 ##  Attitude
 Most people dread the job search. They may think they are being judged, or they may think that, the process is silly.  You’ll hear “Interview questions don’t measure your real performance”, or “Agh, I just want this to be over with”.
 
-This kind of attitude causes a self-fulfilling prophecy. When you dread something, or if you think it’s silly, you spend very little time on it. If you spend very little time on it, your results will reflect — you’ll see negative interview experiences, negative recruiter conversations, and it will all feeds back into your attitude. Now, if this makes you take the first job you see, because “you want this to be over with”,  and it’s not the best opportunity for you, you’ve just paid a high price for this attitude.
+This kind of attitude causes a self-fulfilling prophecy. When you dread something, or if you think it’s silly, you spend very little time on it. If you spend very little time on it, your results will reflect — you’ll see negative interview experiences, negative recruiter conversations, and it will all feed back into your attitude. Now, if this makes you take the first job you see, because “you want this to be over with”,  and it’s not the best opportunity for you, you’ve just paid a high price for this attitude.
 
 **Now, how do the best candidates see this?**
 
@@ -123,7 +123,7 @@ Why?
 This is the point where you have the most leverage to affect what you do. Do you have any gripes in your old job? Anything you dream of doing? If you wanted to take on more responsibility or work on different problems, this is your chance!
 
 ### Level up your Compensation
-Compensation is accelerating. You might be very surprised with what the market rate is now. Your responsibilities could have grown too, which means you might be be mis-leveled at your current job. This is your chance to see a step function in your salary — from our friend circles we’ve seen people get between 30% - 100% higher packages.
+Compensation is accelerating. You might be very surprised with what the market rate is now. Your responsibilities could have grown too, which means you might be mis-leveled at your current job. This is your chance to see a step function in your salary — from our friend circles we’ve seen people get between 30% - 100% higher packages.
 
 ### For Leveling up your Community
 As you go through the job search, you will meet new people. All the managers you meet, all the interviewers, all the recruiters, they now know you more intimately, and they will have become part of your community.
@@ -185,7 +185,7 @@ As you answer these questions, you’ll uncover the exciting path you’ve been 
 Take a moment to reflect about your journey. What are your answers to these questions?
 
 * Why did you join your last job?
-* What did you do there
+* What did you do there?
 * Why are you leaving?
 * What are you looking for in your next job?
 
@@ -194,7 +194,7 @@ Below is an example of a narrative document we recommend you make early on in yo
 
 **Why did you join your last job?**
 
-I loved startups, and I was building a service business with my co-founder in China. We were beginning to be successful, but I realized two things. First, we wanted to solve ambitious and large problems, and both of us knew this business not one of those. Second, I realized I was growing in sales and marketing, but I was no longer growing technically. With that, we decided to wind down the business. I decided that I would dive deeper technically, and go where the biggest problems are being solved — San Francisco.
+I loved startups, and I was building a service business with my co-founder in China. We were beginning to be successful, but I realized two things. First, we wanted to solve ambitious and large problems, and both of us knew that this business is not one of those. Second, I realized I was growing in sales and marketing, but I was no longer growing technically. With that, we decided to wind down the business. I decided that I would dive deeper technically, and go where the biggest problems are being solved — San Francisco.
 
 I found a company where all of us were weird in the same way. We were solving an ambitious machine learning problem, with technology that proved to be very well chosen. We were one of the first .ai domains, one of the first docker users, and one of the pioneers of Clojure — a functional language in Lisp.
 
@@ -208,13 +208,13 @@ When I joined Facebook, for the first 2 years I was the UI lead on Oz -- a servi
 
 After that, I went on a 2-year long mission.
 
-The first, was to find product-market fit internally for Wit. I patented, tech-led, and launched two products, which integrate Wit with different orgs across Facebook.
+The first, was to find product-market fit internally for Wit. I patented, tech-led, and launched two products, which integrated Wit with different orgs across Facebook.
 
 Second, I owned, what I termed “The Great Migration”. This was a multi-phased migration, spanning over a year and a half and 6 people, with the goal of moving Wit business logic from our legacy infrastructure to Facebook.
 
 **Why are you leaving your job?**
 
-I finished The Great Migration in November. When I finished, I opened my eyes to breathe again. I had finished the commitment I had made, and I knew that the next commitment I would make would have a similar commitment of a few years. I decided then, before diving deeper, I should reflect — Do I want to dive deeper at Facebook, do I start a company, or do I join another company?
+I finished The Great Migration in November. When I finished, I opened my eyes to breathe again. I had finished the commitment I had made, and I knew that the next commitment I would make would have a similar commitment of a few years. I decided then, before diving deeper, I should reflect — Do I want to dive deeper at Facebook, do I start a company, or do I want to join another company?
 
 **What are you looking for in your next opportunity?**
 
@@ -320,11 +320,11 @@ The misconceptions it that *being you* is actually coming through to the intervi
 
 What if we told you, that when you thought you were being yourself, you were not actually understood?
 
-It would be like, if you flew to Beijing and tried to strike up a conversation.You could be speaking, but no one would understand a thing you’re saying! — they don’t speak your language.
+It would be like, if you flew to Beijing and tried to strike up a conversation. You could be speaking, but no one would understand a thing you’re saying! — they don’t speak your language.
 
 There is a *language* in the interview process, and a *purpose* behind what recruiters and interviews are trying to do. You *can* be yourself, but if you don’t know this language, you lose the ability to communicate. In some cases, you may be communicating the *opposite* of what you think you are.
 
-In this module, we’ll learn this language. This is the language of signal, scope, and leveling. Once you learn this it, you’ll see every single interaction in the job search differently — you’ll know the purpose, and have the tools to communicate *exactly* what makes you a phenomenal candidate, in each step of the process.
+In this module, we’ll learn this language. This is the language of signal, scope, and leveling. Once you learn this, you’ll see every single interaction in the job search differently — you’ll know the purpose, and have the tools to communicate *exactly* what makes you a phenomenal candidate, in each step of the process.
 
 Are we ready? Let’s get into this.
 
@@ -386,7 +386,7 @@ The level changes the game in two ways —
 
 First, the right level defines what you do day to day — your level sets your expectations, and the kind of scope you take on — If you want to be solving large and ambiguous problems, it’s much simpler to do that when you come in at a senior or staff level. By getting this right, you are starting off your role strong.
 
-Second, level is the biggest deciding factor in compensation. Once your level is set, your compensation is determined by a range for your level, and where you fall in that range. By changing where you are at that spectrum, you change your massively shift your compensation.
+Second, level is the biggest deciding factor in compensation. Once your level is set, your compensation is determined by a range for your level, and where you fall in that range. By changing where you level is at, you can massively shift your compensation.
 
 ### Homework
 Spend about 1 hour looking through the leveling doc. Answer, which section most speaks to the kind of work you have done? Now take that level, as well as the one above it, and for as many points as you can, list briefly the work you’ve done that matches, or why you believe that you match that.
@@ -418,10 +418,10 @@ A full loop with a company will look something like this:
 Every company has a slightly different process. Some places may have you do take-homes instead of or in addition to a phone screen. Some places may have you talk with a hiring manager before coming onsite. Some places may even expedite you and take you straight to an onsite after speaking with a recruiter. The above is the general flow we encountered based on 20+ loops with companies in San Francisco and the Bay Area. In greater detail:
 
 ### Recruiter chat
-This interview is typically a 15-30min call with a recruiter to discuss your interest in the company. Before talking with any recruiters you should already have clarity on your goals for the job search. Your objective for this chat is to communicate those goals, determine if there is a potential mutual fit, and move forward to the technical screen.
+This interview is typically a 15-30 minute call with a recruiter to discuss your interest in the company. Before talking with any recruiters you should already have clarity on your goals for the job search. Your objective for this chat is to communicate those goals, determine if there is a potential mutual fit, and move forward to the technical screen.
 
 ### Technical phone screen
-This interview is typically a 60min video call with an engineer where you share your screen and code live. You will work on either an algo or UI problem depending on your interview loop (back-end or front-end). You should clarify with your recruiter what to expect. Before doing these interviews you should be thoroughly prepared for the Algorithm and/or UI interviews. Your objective for this interview is to demonstrate your technical ability, ask insightful questions to your interviewer after the coding portion, and move forward to the onsite.
+This interview is typically a 60m minute video call with an engineer where you share your screen and code live. You will work on either an algo or UI problem depending on your interview loop (back-end or front-end). You should clarify with your recruiter what to expect. Before doing these interviews you should be thoroughly prepared for the Algorithm and/or UI interviews. Your objective for this interview is to demonstrate your technical ability, ask insightful questions to your interviewer after the coding portion, and move forward to the onsite.
 
 ### Onsite loop
 The onsite loop typically lasts between 4-7 hours and consists of multiple interviews at the company itself. You will encounter algorithm, UI, system design, and experience interviews. Be ready to meet a lot of people, communicate enthusiasm, and demonstrate your technical ability. Your objective for the onsite is to give strong positive signal and move forward to the offer stage.
@@ -475,17 +475,18 @@ If you absolutely can't think of a way to get a referral, feel free to send in a
 ## Recruiter Screens
 The recruiter screen is usually the first conversation you have with a company. These interviews are rarely technical and meant to get you and the company acquainted. You are pretty much guaranteed to go to the next stage so no need to worry about "failing" this interview.
 
-Your goal is to clearly communicate your narrative and expectations. For example, if you're expecting to be leveled as an L6, it is critical you let your recruiter know early on. They may push back or tell you that leveling is determined post interview -- that's fine. Be firm with your expectations, make it clear you are open to interviewing and explain the **scope** you are looking for so your recruiter understands why want this level. It will help your recruiter build the right interview loop and the right case for the hiring committee.
+Your goal is to clearly communicate your narrative and expectations. For example, if you're expecting to be leveled as an L6, it is critical you let your recruiter know early on. They may push back or tell you that leveling is determined post interview -- that's fine. Be firm with your expectations, make it clear you are open to interviewing and explain the **scope** you are looking for so your recruiter understands why you want this level. It will help your recruiter build the right interview loop and the right case for the hiring committee.
 
 ### Communication
 Remember to always be positive and classy. Treat your recruiter as a friend. Even though this isn't true -- realize they have a vested interest in you succeeding and signing an offer. Assume positive intent. Not all recruiters are created equally and some are better than others. Treat everyone with respect at all times. Make your recruiter part of your team and work with them to get the package you want.
 
 ### Expected compensation
-A recruiter may ask at this stage what your expected compensation is. To get an idea of what you should target, we recommend you look at levels.fyi However, We personally recommend you do not give any numbers this early. Instead, focus the discussion on determining mutual fit and leveling. It's better to discuss numbers at the offer stage -- your goal for now is to make sure you actually like the company and get leveled correctly. If a recruiter keeps pressing, you can tell them a range at the top of your level -- emphasize that you believe the company is competitive and you are not worried about reaching a mutual agreement. We highly recommend you look up [patio11's salary negotiation article][patio11] as well as additional negotiation resources to prepare for this scenario.
+A recruiter may ask at this stage what your expected compensation is. To get an idea of what you should target, we recommend you look at [levels.fyi][levels] -- However, We personally recommend you do not give any numbers this early. Instead, focus the discussion on determining mutual fit and leveling. It's better to discuss numbers at the offer stage -- your goal for now is to make sure you actually like the company and get leveled correctly. If a recruiter keeps pressing, you can tell them a range at the top of your level -- emphasize that you believe the company is competitive and you are not worried about reaching a mutual agreement. We highly recommend you look up [patio11's salary negotiation article][patio11] as well as additional negotiation resources to prepare for this scenario.
 
 ### Homework
 * Read [patio11's salaray negotiation article][patio11]
 
+[levels]: www.levels.fyi
 [patio11]: https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 
 ## Technical Screen
@@ -511,9 +512,9 @@ The onsite is typically the last stage with a company in the interviewing proces
 * Hiring Manager: In this interview you will hopefully meet your prospective manager. In some places the hiring manager interview will be identical to the experience interview. In any case, make sure your answers convey signal and scope for your target level. This is also your opportunity to get a feel for your manager. Evaluate whether they would be a good fit for you.
 * Wrap-up: Your last interviews for the day will most likely be a wrap-up and walk-out with the recruiter. They will usually ask you how it went. Feel free to be honest but always maintain a positive attitude. Make sure to inquire about next steps, this communicates your interest in getting the offer.
 
-Having a positive attitude throughout the day is essential. You want to come in radiating confidence and warmth. Not only will interviewers evaluate your technical ability, they will also evaluate whether they to work with you. If you find yourself faltering during an interview, keep pushing forward. Never give up. Always maintain a can-do attitude if the interview goes poorly. Stay upbeat. Do not bring self-doubt or negativity into the next interview. One stellar performance can make up for a poor interview. Always be on, be confident, and be positive.
+Having a positive attitude throughout the day is essential. You want to come in radiating confidence and warmth. Not only will interviewers evaluate your technical ability, they will also evaluate whether they want to work with you. If you find yourself faltering during an interview, keep pushing forward. Never give up. Always maintain a can-do attitude if the interview goes poorly. Stay upbeat. Do not bring self-doubt or negativity into the next interview. One stellar performance can make up for a poor interview. Always be on, be confident, and be positive.
 
-After the onsite, update your status and progress documents. Similar to the screen stage, identify what went well and what you can do better. Incorporate these learning into your next onsites. If you find yourself performing very poorly reschedule your later onsites. You want to be confident by the time you do your onsites with your top companies.
+After the onsite, update your external status and internal progress documents. Similar to the screen stage, identify what went well and what you can do better. Incorporate these learning into your next onsites. If you find yourself performing very poorly reschedule your later onsites. You want to be confident by the time you do your onsites with your top companies.
 
 Timing-wise, we recommend you batch all your onsites over a two to three week period. You should start your onsites after you've completed all your screens. Two to three onsites per week is a good cadence. If confident, feel free to go up to four a week. Beware of burnout though -- onsites take a lot of energy. You want to ensure you are upbeat and energetic for each one. If possible, try to have at least one day in-between onsites to rest and reflect.
 
@@ -522,7 +523,7 @@ After you've completed all your onsites it's onto choosing where you want to wor
 
 # Offer Stage
 ## Choosing
-After your onsites you may find yourself in the fortunate yet uncertain position of choosing between multiple companies. This can be a touch decision. Here are some tips we used to decide:
+After your onsites you may find yourself in the fortunate yet uncertain position of choosing between multiple companies. This can be a tough decision. Here are some tips we used to decide:
 
 * Get centered. Go back to your narrative and ask yourself what is most important to you. What are your goals? How does each company fit with your desired path.
 * Meet your team. If you haven't already, meet your prospective manager. Ask your recruiter to set up in-person or phone meetings. Your manager has a huge impact on your experience at work. Feel them out, ask yourself if they are the right manager for you. Similarly, if you haven't met other engineers on the team, set up meetings to chat with them about work. Don't be shy about setting up multiple meetings. We visited our top choices several times post-onsite before making our final decision. If they've extended an offer, the company wants you. Take your time in figuring out what is best for you
@@ -551,30 +552,30 @@ Cheers,
 Your Name
 ```
 
-Your recruiter will most likely give some push-back. They may ask what are your competing offers. They may say they can't meet those expectations. Recruiters deal with lots of candidates and have significantly more negotiating experience than you. By negotiating over email you will be able to thoroughly think about your responses and not bring your own emotions (negotiating is stressful!) This will significantly improve your odds of getting a better package. The following will also help your negotiations:
+Your recruiter will most likely give some push-back. They may ask what are your competing offers. They may say they can't meet those expectations. Recruiters deal with lots of candidates and have significantly more negotiating experience than you. By negotiating over email you will be able to thoroughly think about your responses and not bring in your own emotions (negotiating is stressful!) This will significantly improve your odds of getting a better package. The following will also help your negotiations:
 
 ### Know your band
-Do your research on the company and their ranges for your level. Levels.fyi is a good resource for this. If you have friends or mentors at the company, ask them as well. Get an idea of what is realistic and evaluate whether your target compensation is in band for your target level
+Do your research on the company and their ranges for your level. [Levels.fyi][negotiate-levels] is a good resource for this. If you have friends or mentors at the company, ask them as well. Get an idea of what is realistic and evaluate whether your target compensation is in band for your target level
 
 ### Have multiple offers
 This is one of the strongest forms of leverage you have. If you have offers from other competitive companies you should certainly let your recruiter know. This will allow them to make a strong case to the compensation team to approve your package. Even if the other offers are lower they may bump up your package to close you
 
 ### Be willing to walk away
-This can be very hard to do, but ultimately one of the most powerful things you can do for negotiations. It is also extreme and should be a last resort. Do not do this unless you are truly centered on walking away if your expectations are not met. Suppose you have an offer from your dream company which is lower than an offer from another good company. In this scenario dream company won't budge -- assume this is final. After factoring everything in, are you truly willing to walk away? If instead your expectations were met would you sign immediately? If you answered yes to both questions, let your recruiter know that you can't take the offer. At this point feel free to hop on a call, since you're now centered on your decision you will be free from any fear. Your resolve will communicate strength. The ball is entirely in their court.
+This can be very hard to do, but ultimately one of the most powerful things you can do for negotiations. It is also extreme and should be a last resort. Do not do this unless you are truly centered on walking away if your expectations are not met. Suppose you have an offer from your dream company which is lower than an offer from another good company. In this scenario dream company won't budge -- assume this is final. After factoring everything in, are you truly willing to walk away? If instead your expectations were met would you sign immediately? If you answered yes to both questions, let your recruiter know that you can't take the offer unless your expectations are met. At this point feel free to hop on a call, since you're now centered on your decision you will be free from any fear. Your resolve will communicate strength. The ball is entirely in their court.
 
 This strategy is not limited to just compensation. Suppose you were leveled lower at dream company vs good company but overall compensation was comparable (or even higher at dream company). However you evaluate that the expectations, responsibilities, and growth at good company would be higher. If those things are important enough to you, ask yourself whether you are willing to walk away from dream company. If so, let your recruiter know that without the higher level you cannot accept.
 
-For more tips we recommend you loop up [pattio11's salary negotiation article][negotiate] as well as other negotiation resources. An hour or two of research could you net you an addition $100,000+ -- definitely worth your time!
+For more tips we recommend you loop up [pattio11's salary negotiation article][negotiate] as well as other negotiation resources. An hour or two of research could you net you an additional $50,000+ -- definitely worth your time!
 
 ### A word on exploding offers
 This is an unfortunate tactic used to close a candidate and prey on their fear that the offer may fall through. Hiring good people is hard. The company has already heavily invested in you by having you go through their process. They will not rescind if you need more time. Be polite but firm with your recruiter about your needs and expectations.
 
-Once you have negotiated a package that you are willing to sign, ask your recruiter to send over the offer. The offer letter will most likely have a dealing -- but this is reasonable since you are ready to sign immediately.
+Once you have negotiated a package that you are willing to sign, ask your recruiter to send over the offer. The offer letter will most likely have a deadline -- but this is reasonable since you are ready to sign immediately.
 
 If you've made it this far and signed -- congratulations! An exciting new adventure awaits you. All that is left on your part is concluding / sharing the news with your community.
 
 [negotiate]: https://www.kalzumeus.com/2012/01/23/salary-negotiation/
-
+[negotiate-levels]: www.levels.fyi
 ## Concluding
 Congratulations for making it this far. Hopefully you feel some relief after signing the offer. It's been a long journey, and we hope you are excited about your next opportunity. Although your job search is done, we recommend you do a couple more things to conclude well.
 
@@ -615,7 +616,7 @@ Doing all the above sends great signal and will earn you a strong yes.
 Let's break down this interview.
 
 ### The bar
-Here are some example problems that mirror the difficulty level of what you can expect in an actual algorithm interview. This is not an exhaustive list, only meant to give you a rough idea. You should feel confident handling these kinds of questions by the time you do actual screens and onsites. Your goal is to have a working solution that compiles and passes test cases within 30 minutes or less. All these questions can be found by searching their name on LeetCode.com -- in general this is a useful resource for practice questions.
+Here are some example problems that mirror the difficulty level of what you can expect in an actual algorithm interview. This is not an exhaustive list, only meant to give you a rough idea. You should feel confident handling these kinds of questions by the time you do actual screens and onsites. Your goal is to have a working solution that compiles and passes test cases within 30 minutes or less. All these questions can be found by searching their name on [LeetCode.com][leetcode] -- in general this is a useful resource for practice questions.
 
 * Merge Intervals
 * Meeting Rooms
@@ -660,6 +661,13 @@ When doing these problems, set a timer for 20 minutes and try to solve each ques
 
 By going through lots of problems in different areas you will be ready to take on anything.
 
+### Homework
+* Read chapters I-VII of CTCI
+* Complete foundations in either CTCI or EPI
+* Solve example bar questions on [LeetCode][leetcode]
+
+[leetcode]: www.leetcode.com
+
 ## Mock and Real Algorithm Interviews
 Once you have your foundations it's time to do some mock interviews. There is a difference between solving problems on your own vs in front of someone else. For example:
 
@@ -669,8 +677,8 @@ Once you have your foundations it's time to do some mock interviews. There is a 
 
 By the time you do the real interview you want to be comfortable with all the above. As a result, we strongly recommend you do mock interviews before your first real algorithm interview. Here are some great resources for mock interviews:
 
-* Pramp.com -- Pramp is an online platform where mock interview each other. Each interview is 30 minutes and the questions are about medium difficulty level. You code in an online IDE so it's a great way to get used to that if you've never used one before.
-* Interviewing.io -- Do these once you find yourself easily passing Pramp. These interviews are 60 minutes long and the questions are typically harder. The format is almost identical to a real technical screen, so this is excellent practice. The interviewers are paid so you expect a more professional tone compared to Pramp. Strongly recommend you do at least one of these before a real interview
+* [Pramp.com][algo-pramp] -- Pramp is an online platform where people mock interview each other. Each interview is 30 minutes and the questions are about medium difficulty level. You code in an online IDE so it's a great way to get used to that if you've never used one before.
+* [Interviewing.io][algo-interviewing] -- Do these once you find yourself easily passing Pramp. These interviews are 60 minutes long and the questions are typically harder. The format is almost identical to a real technical screen, so this is excellent practice. The interviewers are paid so you expect a more professional tone compared to Pramp. We strongly recommend you do at least one of these before a real interview
 * Friends -- Ask your engineering friends to interview you. If possible, get access to a whiteboard. Whiteboard-ing can be stressful, you certainly want to get some practice solving problems on the board in front of someone.
 
 As you go through these practice interviews evaluate your performance and identify areas to improve. As you start feeling confident, go ahead and schedule the real interviews.
@@ -681,12 +689,24 @@ There should be no surprises during the real interview if you've put in the time
 ### Conclusion
 You should now have an idea of where the bar is at and how to get there. It may seem like a lot of work to solve contrived puzzles that ambiguously correlate to technical ability. This may be true -- but this mindset won't help you succeed in this interview. Instead, we hope you find some excitement in solving these algorithm problems. The algorithm interview is like a game. The objectives are clearly defined and all the preparation material is available beforehand. It's up to you to put in the time to win it. Study hard and have fun!
 
+### Homework
+Do these after completing the homework from the previous section on foundations.
+
+* Complete at least 1-2 pramp interviews
+* After successfully passing pramp interviews, complete at least 1-2 interviewing.io interviews
+* Complete at least 1-2 practice interviews with friends
+
+If you're doing well in your practice interviews you should be ready for your real technical screens!
+
+[algo-pramp]: www.pramp.com
+[algo-interviewing]: www.interviewing.io
+
 
 # UI Interview
 ## UI Interview
 Let’s go over the UI Engineering Interview.
 
-We think this is one of the most fun interviews, because it’s the interview that’s most relevant to your day to day work as a UI engineer.
+We think this is one of the most fun interviews, because it’s the interview that’s most relevant to your day to day work as an UI engineer.
 
 When you go into the UI interview, you’ll work together with an engineer over a live session — usually over Coderpad or Codepen. You’ll encounter two kinds of problems:
 
@@ -703,7 +723,7 @@ To communicate this signal the best, we suggest you get comfortable with the fol
 You’ll constantly be working in Codepen. You’ll most likely want to use the libraries you use at work — usually React — and you should be able to set up an environment that renders "hello world”, in a few seconds.
 
 ### Building a bunch of UIs from scratch in online editors.
-You have been building UIs at work all the time, but it could have been a while since you have built a modal from scratch, or autocomplete, or worked with drag and drop. In the homework section, we’ve included about 4 or 5 different UIs that we suggest you build. These are meant to remind you of some of the JS concepts that you may not have gotten to do frequently at work. These questions are also **very frequently** asked in real interviews. Although some examples, using JS’s selection api, or drag and drop is uncommon, building a few projects here will ramp you up very quickly.
+You have been building UIs at work all the time, but it could have been a while since you have built a modal from scratch, or autocomplete, or worked with drag and drop. In the homework section, we’ve included about 4 or 5 different UIs that we suggest you build. These are meant to remind you of some of the JS concepts that you may not have gotten to do frequently at work. These questions are also **very frequently** asked in real interviews. Although some examples, using JS’s selection api, or drag and drop, are uncommon, building a few projects here will ramp you up very quickly.
 
 ### Debugging in online editors.
 You may already have mastered chrome’s developer tools from work, but it always helps to brush up. It’ll also be a bit different in online editors. You should be able to freely use debugger and console.logs to quickly narrow down on bugs. [We’ve included an article][debugging] that goes over all the tools you can use in Google Chrome. This can be helpful in and out of the interview. As you practice building a bunch of UIs, make an effort to use the debugging tools to narrow down your bugs more and more quickly.
@@ -712,7 +732,7 @@ You may already have mastered chrome’s developer tools from work, but it alway
 The example UIs may not specifically cover what you know and don’t know. We want you to reflect — what are the concepts that you’ve wanted to learn, that you haven’t learned yet? Perhaps you’ve rarely used Canvas, or haven’t tried Redux yet, or want to play with service workers. Catching up on these will help send **very positive** signal during the interview — showing you truly love the industry and are a self-learner. We suggest taking a look at some of Wes Bos’s courses — he loves the UI world and goes deep on a bunch of the latest concepts.
 
 ### Data structures and algorithms
-Even though you are in the UI engineering loop, and the chance you get asked heavy algorithm questions is lower, We strongly suggest preparing for algorithms anyway. Go through the **Algorithm Interview** section, and prepare for this interview too. If you prepare well for those, most of the coding-related questions in the UI loops will feel easy.
+Even though you are in the UI engineering loop, and the chance you get asked heavy algorithm questions is lower, we strongly suggest preparing for algorithms anyway. Go through the **Algorithm Interview** section, and prepare for this interview too. If you prepare well for those, most of the coding-related questions in the UI loops will feel easy.
 
 ### The live interview
 When you go through the interview, we suggest you structure your answers like this:
@@ -817,11 +837,11 @@ For example, for feed, we would
 
 Work with the interviewer here — you’ll end up finding a lot of “not dos”, and get a much better sense of the system we will need to implement, and the tradeoffs that will come as a result.
 
-By the end of this, you will have all the functionality screens you need to support. Most people get stuck in this interview or jump into coding too quickly, so if you take the time here to plan and come up with a functional specification, you are showing very positive signal to the interviewer.
+By the end of this, you will have all the functionality you need to support. Most people get stuck in this interview or jump into coding too quickly, so if you take the time here to plan and come up with a functional specification, you are showing very positive signal to the interviewer.
 
 Once the functional spec is done, you’re ready to move to the next step in the interview!
 
-## System Design: Technical Spec
+## System Design: The Technical Spec
 Now that we know much more clearly what problem we’re solving, let’s go broad, and build a **technical spec.**
 
 Your goal here is to outline all of the component parts we would need to build in our system. Imagine you will divide up work across a bunch of senior engineers, and you want to find out who will own what.
@@ -853,7 +873,7 @@ Once you're done with the technical spec, every screen you drew out should be su
 ## System Design: Going Deep
 Now that we’ve gone broad, it’s time to go **deep**.
 
-At this point in the interview we’ve noted down a bunch of tradeoffs and problems remaining to solve. It’s time do demonstrate our expertise by going deep.
+At this point in the interview we’ve noted down a bunch of tradeoffs and problems remaining to be solved. It’s time do demonstrate our expertise by going deep.
 
 Here’s how we suggest you do this:
 
@@ -861,9 +881,9 @@ Start by looking at the most critical problems — perhaps it’s scaling a part
 
 Imagine now that you are giving this piece to a relatively strong, but inexperienced engineer. Now, spend the time to really unravel, and build up the spec for this piece.
 
-For example, say we are building out the twitter feed api — we need to answer what the parameters look like, how will paginating work? We now will handle how the client will merge the data.
+For example, say we are building out the twitter feed api — we need to answer what the parameters look like, how will paginating work?
 
-If any tradeoff comes to mind, make sure to mention it. For example, we could have feed connected through websockets, or through http — what would the tradeoffs be for both?
+Now we will handle how the client will merge the data. If any tradeoff comes to mind, make sure to mention it. For example, we could have feed connected through websockets, or through http — what would the tradeoffs be for both?
 
 Go problem by problem, until you are satisfied that you’ve dealt with the most important tradeoffs. If you have time, keep going.
 
@@ -899,7 +919,7 @@ Interviewers are **trained to expect** that candidates will need to be prodded a
 Now you’re ready for the system design interview, here’s to becoming a great architect!
 
 ### Homework
-1. Schedule at least 2 system design interviews. Reach out to senior engineer friends or mentors who could you with senior engineers. Ideally you want someone who has experience interviewing others on system design. Make sure you get a sense of the interview flow, and ask for feedback. By the end of the practice interviews, you should have a sense of the areas you are weak in.
+1. Schedule at least 2 system design interviews. Reach out to senior engineer friends or mentors who could connect you with senior engineers. Ideally you want someone who has experience interviewing others on system design. Make sure you get a sense of the interview flow, and ask for feedback. By the end of the practice interviews, you should have a sense of the areas you are weak in.
 2. To learn these areas, and make a study plan. Some suggestions
     * Learn more about real large-scale production systems, watch InfoQ videos: Some examples: [Pinterest][pinterest], [Dropbox][dropbox], and [Twitter][twitter]
     * Check out some [Rich Hickey Talks][rich-hickey]
@@ -941,8 +961,7 @@ The interviewer wants to understand two things:
 If we can communicate clearly in both areas, we will have excelled in this interview.
 
 ## Experience Interview: Communicate Fit
-In order to be successful at a company, there are traits that you learn along your career. Some companies value different traits, but in general, there are a few that apply across the board. For example —
-
+In order to be successful at a company, there are traits that you learn along your career. Some companies value different traits, but in general, there are a few that apply across the board. For example:
 
 * Motivation — Why are you in engineering, why are you choosing this company specifically?
 * Empathy — Do you know how to work with your peers, your managers, your reports?
@@ -962,17 +981,13 @@ One of your interviewer’s goals is to suss out your leadership experience. The
 
 Suppose you are asked "tell me a time where you made a design decision that you later regretted?" Let's go over some possible answers.
 
-Answer: I made this library, and it became highly coupled.
-Scope: You are communicating that you dealt with libraries — the scope of a new grad
+**Answer**: I made this library, and it became highly coupled. **Scope**: You are communicating that you dealt with libraries — the scope of a new grad
 
-Answer: I owned this part the project, and I under-estimated how long it would take.
-Scope: You are communicating that you dealt with features — the scope of an L4 engineer.
+**Answer**: I owned this part the project, and I under-estimated how long it would take. **Scope**: You are communicating that you dealt with features — the scope of an L4 engineer.
 
-Answer: I owned this project, and made too many tradeoffs to launch — it took us much longer to get back to quality.
-Scope: You are communicating your leadership over a team — the scope of an L5 engineer.
+**Answer**: I owned this project, and made too many tradeoffs to launch — it took us much longer to get back to quality. **Scope**: You are communicating your leadership over a team — the scope of an L5 engineer.
 
-Answer: I owned a suite of services, and spent so much time maintaining them, that I didn’t see we could re-architect it like this.
-Scope: You are communicating your leadership across the org — the scope of an L6 engineer
+**Answer**: I owned a suite of services, and spent so much time maintaining them, that I didn’t see we could re-architect it like this. **Scope**: You are communicating your leadership across the org — the scope of an L6 engineer
 
 Again, the way this is parsed is indirect, so the key to communicating this signal is your homework in **Communication.** If you have a good sense of the leveling guide (and you did the exercises of writing up examples of what you did for your level as well as the one above it) the stories you tell will naturally communicate leveling.
 
@@ -985,14 +1000,14 @@ Ask questions from your list you prepared earlier and really try to find out if 
 
 For example, if you really care about having a large scope you can ask — "what if I wanted to start a project that goes past my manager, how is it like doing that?" Your interviewer will gain further signal on your initiative.
 
-Remember though your goal here though is to actually get a sense if you want to work here.
+Remember though, your goal here is to actually get a sense if you want to work here.
 
 ## Experience Interview: Final Advice
 If you do the homework in Mental Game and Communication, you are pretty much ready for the Experience Interview!
 
 Again, it’s hard to know the questions you will be asked, but if you keep the goal in mind — that you are being asked to demonstrate specific culture traits, and demonstrate your previous scope — the answers will come naturally.
 
-Our final piece of advice for you in this interview is -- Do not try to pretend. Simply own exactly where you are at — pretending will come through. What you’re trying to do is to find a job that fits with you, and this is exactly the interview to do that.
+Our final piece of advice for you in this interview is -- do not try to pretend. Simply own exactly where you are at — pretending will come through. What you’re trying to do is to find a job that fits with you, and this is exactly the interview to do that.
 
 Now, you’re ready for the experience interview!
 
@@ -1014,5 +1029,5 @@ Here are our top takeaways from the course:
 9. Always be classy. Even if a recruiter forgets to call you, gives you unexpected news, gives you an exploding offer, etc. Carry yourself with class and be firm with your expectations. This behavior will set you apart and communicate your strength and seniority.
 10. Be kind to yourself. Interviewing is hard. Sometimes things won't go as well as you like. Don't beat yourself up. Maintain a positive dialogue with yourself. Do your best and be proud.
 
-We hope you found this course useful! Go forth, get your dream job and an amazing package.
+We hope you found this course useful. Go forth, get your dream job and an amazing package!
 

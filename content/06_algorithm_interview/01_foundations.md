@@ -19,7 +19,7 @@ Doing all the above sends great signal and will earn you a strong yes.
 Let's break down this interview.
 
 ### The bar
-Here are some example problems that mirror the difficulty level of what you can expect in an actual algorithm interview. This is not an exhaustive list, only meant to give you a rough idea. You should feel confident handling these kinds of questions by the time you do actual screens and onsites. Your goal is to have a working solution that compiles and passes test cases within 30 minutes or less. All these questions can be found by searching their name on LeetCode.com -- in general this is a useful resource for practice questions.
+Here are some example problems that mirror the difficulty level of what you can expect in an actual algorithm interview. This is not an exhaustive list, only meant to give you a rough idea. You should feel confident handling these kinds of questions by the time you do actual screens and onsites. Your goal is to have a working solution that compiles and passes test cases within 30 minutes or less. All these questions can be found by searching their name on [LeetCode.com][leetcode] -- in general this is a useful resource for practice questions.
 
 * Merge Intervals
 * Meeting Rooms
@@ -63,4 +63,11 @@ These are really hard questions and you may never be asked them in your process.
 When doing these problems, set a timer for 20 minutes and try to solve each question on your own. Look at the solution if you finish or time runs out -- spend as much time as you need to understand the answer. There are a lot of tricks and concepts to learn, take the time to internalize them. Once you know the trick, future problems will be easier. Your goal isn't to see and memorize every problem / solution. Instead, your focus should be to increase your bag of tricks and sharpen your problem solving abilities. Follow the pattern of coming up with an approach, implementing it, and running your code against test cases.
 
 By going through lots of problems in different areas you will be ready to take on anything.
+
+### Homework
+* Read chapters I-VII of CTCI
+* Complete foundations in either CTCI or EPI
+* Solve example bar questions on [LeetCode][leetcode]
+
+[leetcode]: www.leetcode.com
 

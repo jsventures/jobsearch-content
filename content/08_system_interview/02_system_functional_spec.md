@@ -29,7 +29,7 @@ For example, for feed, we would
 
 Work with the interviewer here — you’ll end up finding a lot of “not dos”, and get a much better sense of the system we will need to implement, and the tradeoffs that will come as a result.
 
-By the end of this, you will have all the functionality screens you need to support. Most people get stuck in this interview or jump into coding too quickly, so if you take the time here to plan and come up with a functional specification, you are showing very positive signal to the interviewer.
+By the end of this, you will have all the functionality you need to support. Most people get stuck in this interview or jump into coding too quickly, so if you take the time here to plan and come up with a functional specification, you are showing very positive signal to the interviewer.
 
 Once the functional spec is done, you’re ready to move to the next step in the interview!
 

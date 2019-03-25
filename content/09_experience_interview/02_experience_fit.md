@@ -1,6 +1,5 @@
 ## Experience Interview: Communicate Fit
-In order to be successful at a company, there are traits that you learn along your career. Some companies value different traits, but in general, there are a few that apply across the board. For example —
-
+In order to be successful at a company, there are traits that you learn along your career. Some companies value different traits, but in general, there are a few that apply across the board. For example:
 
 * Motivation — Why are you in engineering, why are you choosing this company specifically?
 * Empathy — Do you know how to work with your peers, your managers, your reports?

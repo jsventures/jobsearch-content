@@ -15,11 +15,11 @@ The misconceptions it that *being you* is actually coming through to the intervi
 
 What if we told you, that when you thought you were being yourself, you were not actually understood?
 
-It would be like, if you flew to Beijing and tried to strike up a conversation.You could be speaking, but no one would understand a thing you’re saying! — they don’t speak your language.
+It would be like, if you flew to Beijing and tried to strike up a conversation. You could be speaking, but no one would understand a thing you’re saying! — they don’t speak your language.
 
 There is a *language* in the interview process, and a *purpose* behind what recruiters and interviews are trying to do. You *can* be yourself, but if you don’t know this language, you lose the ability to communicate. In some cases, you may be communicating the *opposite* of what you think you are.
 
-In this module, we’ll learn this language. This is the language of signal, scope, and leveling. Once you learn this it, you’ll see every single interaction in the job search differently — you’ll know the purpose, and have the tools to communicate *exactly* what makes you a phenomenal candidate, in each step of the process.
+In this module, we’ll learn this language. This is the language of signal, scope, and leveling. Once you learn this, you’ll see every single interaction in the job search differently — you’ll know the purpose, and have the tools to communicate *exactly* what makes you a phenomenal candidate, in each step of the process.
 
 Are we ready? Let’s get into this.
 
