@@ -8,5 +8,5 @@ Our final piece of advice for you in this interview is -- do not try to pretend.
 Now, you’re ready for the experience interview!
 
 ### Homework
-* Ensure you’ve down your homework in Mental Game, Communication, and Technical Screens
+* Ensure you’ve done your homework in Mental Game and Communication
 
