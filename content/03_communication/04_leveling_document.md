@@ -1,32 +1,30 @@
 # Leveling
 
-This document goes over each level you need to be aware of, alongside their technical and people expectations. 
+This document goes over each level you need to be aware of, as well as the technical and people expectations behind them. 
 
 We suggest using the document in two ways: 
 
 1. **Form a conviction for your level**
     
-    Follow the homework in *Communicating Signal*. You should have proof and confidence in your level, and where you follow in the range on that level.
+    Follow the homework in *Communicating Signal*. You should have confideence in what level you where, and where you fall in the range for that level. To do this, prove it to yourself through your experience and knowledge.
 
 2. **Get a sense of the compensation ranges**
 
-    For each level, we've included the names that most companies use for it. Go on [levels.fyi](https://levels.fyi), and take a peak at compensation around your level. you will be asked during interviews what your expectations are, and when time comes to communicate numbers, saying accurate numbers with strength sends positive signal.
+    For each level, we've included the alternate names that most companies use. Go on [levels.fyi](https://levels.fyi), and take a peak at the compensation ranges for the companies you are aiming for. When time comes to communicate numbers to your recruiter, having accurate knowledge and conveying it concicely signals strength and experience.
 
 
 ## New-Grad 
 
-- **Alternate names: E3/L3, SDE 1**
+- **Alternate names: E3, L3, SDE 1, IC 1**
 - **Experience Range: 1-2 years**
 
 The New Grad level is given to people who join right out of college. This is often *the only* time where companies assign this level. **If this is not your first job search**,  carry on to the level above.
 
 ### Technical Expectations
 
-You complete *tasks defined by others* with speed, resourcefulness, and proactivity. You can take ownership over a task, and deliver it *on time* with *little guidance*. 
+You complete *tasks defined by others* with speed, resourcefulness, and proactivity. The tasks you take on are often *guaranteed* to have a solution, and can be done within a week or two. 
 
-To do this, you use a combination of your technical ability -- navigiating the codebase, debugging -- and your resourcefulness -- researching, reaching out to people, asking for help with clear questions. 
-
-The tasks you take on are often *guaranteed* to have a solution, and can be done within a week or two.
+You can take ownership over these tasks and deliver them *on time* with *little guidance*. To do this, you use a combination of your technical ability -- navigiating the codebase, debugging -- and your resourcefulness -- researching, reaching out to people, asking for help with clear questions. 
 
 ### People Expectations
 
@@ -38,27 +36,79 @@ When a task is confusing, or you reach an impass you don't know how to solve, yo
 
 You communicate well, and are proactively updating everyone around you about the timeline for your project when it changes. 
 
+### Live Leveling Guides
+
+- [Patreon Leveling Guide](https://levels.patreon.com/)
+- [Khan Academy Leveling Guide](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/)
 
 # Engineer
 
-- **Alternate names: E4/L4, SDE 2**
+- **Alternate names: E4, L4, SDE 2, IC 2**
 - **Experience Range: 2-5 years**
+
+The Engineer Level is a large band that ranges from highly productive new grads with a year's worth of experience, to people with 4 years of experience who have shipped significant products.
+
+The theme for this level is **high *individual* productivity**. You ship large projects and features, but don't yet own responsibility for your team's outcomes.
 
 ### Technical Expectations
 
-At this level, you are a *strong* engineer who can own large features. 
+You can own large features, which can require more then a month for work. You are able to break up the projeect into many tasks, and complete them with little guidance. 
+
+You are *highly* effective as a coder. You consistently write code that's cohesive and maintenable. You proactively own and fix the codebase, whether it's upgrading to modern frameworks, adding tests, or refactoring confusing pieces. You demonstrate *high* throughput: within your team, and perhaps the org, you may have one of the highest number of commits or the highest number of features shipped.
 
 ### People Expectations
 
-Senior Engineer
+You give great code reviews to peers and junior engineers. You are a great mentor on the craft of engineering. You have learned how the organization works -- from how products get shipped, to what to do if something breaks, and you know how to work well with PMs, managers, and tech leads. You can use that knowledge to join any large initiative and produce quickly. People are often very thankful when you join a project.
 
-Technical 
-Leadership
+### Detailed Points
 
-Staff Engineer
+- [Patreon Leveling Guide](https://levels.patreon.com/)
+- [Khan Academy Leveling Guide](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/)
 
-Technical 
-Leadership
+# Senior Engineer
 
-Senior Staff++
+- **Alternate names: E5, L5, SDE 3, IC 3**
+- **Experience Range: 5+ years**
 
+The Senior Engineer Level is the terminal band for most engineers. This means that at this level, you are are a capable, strong engineering leader, and can stay at this level for the rest of your career if you so choose.
+
+The theme for this level is **team leadership**. You are a strong, saught-out technical leader, and a mentor amongst your team. The most key separator for the senior engineer from the levels below is a deeper expectation on the people dimension.
+
+### Technical Expectations
+
+You own initiatives that can take as long as a half or two to complete, and involve multiple people. You have deeep, saught-after expertise in a technical domain and have a track record of leader large projects well. You can take large problems with tight deadlines, work cross-functionally across teams, create specs, divide up the work, and drive your team to deliver. You have demonstrated this multiple times.
+
+You own the success of a significant system. You often find ways to improve that infrastructure, and build out initiatives that get the whole team on board. The work you do often influences other teams to improve their product as well.
+
+### People Expectations
+
+As a technical leader of the team, you are a strong partner to your Engineering Manager and a mentor for others. You may take on aspects of engineering management or product management, from leading standups to communicating progress, to hiring. You know how to work throughout different organizations to align and unblock large projects, and have done that multipl times. 
+
+You work with your engineering manager to make sure people are developing well on your team, and often step in to mentor some of them to improve. You constantly work to make people around your productive and content -- from introducing new best practices, to making development more ergonomic.
+
+### Detailed Points
+
+- [Patreon Leveling Guide](https://levels.patreon.com/)
+- [Khan Academy Leveling Guide](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/)
+
+# Staff Engineer
+
+- **Alternate names: E6, L6, SDE 4, IC 4**
+- **Experience Range: 7+ years**
+
+The Staff Engineer Level usually makes up less then 10% of the engineering workforce. The theme for this level is **organizational leadership**. You are a technical lead that takes ownership over multiple teams, and influences the direction greater organization you are a part of. The most key separator for the staff engineer from the levels below is scope: from team ownership to org ownership.
+
+### Technical Expectations
+
+You own a suite of systems, and drive long-term initiatives to make them impactful and maintainble. You can break down large goals into multiple systems that a team could work on. You have excellent communication skills, and can navigate throughout multiple orgs to find alignment and launch significant products. You have experience taking systems from conception to production -- from idea, to buy-in, to specs, to alignment, to comms, legal, and so forth. Within these systems, you often take on some of the hardest problems with the most critical dependencies.  
+
+You influence the engineering direction of your org. You are aware of the trends in the industry, and work proactively to keep your org well positioned.
+
+### People Expectations
+
+You can mentor senior engineers, and are a strong partner to multiple leads. You are a culture vector for your teams, demonstrating the kinds of values that make an excepetional team member. You champion the people around you, and constantly work to make the whole org more effective. 
+
+### Detailed Points
+
+- [Patreon Leveling Guide](https://levels.patreon.com/)
+- [Khan Academy Leveling Guide](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/)
