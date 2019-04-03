@@ -6,11 +6,11 @@ We suggest using the document in two ways:
 
 1. **Form a conviction for your level**
     
-    Follow the homework in *Communicating Signal*. You should have confideence in what level you where, and where you fall in the range for that level. To do this, prove it to yourself through your experience and knowledge.
+    As we discussed in the homework for **Communicating Signal**, you'll want to go over these levels, and get a sense of where you stand. You should have examples from your experience that match the description in these levels, and give you a strong sense of where you are at in your career.
 
 2. **Get a sense of the compensation ranges**
 
-    For each level, we've included the alternate names that most companies use. Go on [levels.fyi](https://levels.fyi), and take a peak at the compensation ranges for the companies you are aiming for. When time comes to communicate numbers to your recruiter, having accurate knowledge and conveying it concicely signals strength and experience.
+    For each level, we've included the alternate names that most companies use. Go on [levels.fyi](https://levels.fyi), and take a peak at the compensation ranges for the companies you are aiming for. When time comes to communicate numbers to your recruiter, having accurate knowledge and concisely conveying it, signals strength and experience.
 
 
 ## New-Grad 
@@ -24,24 +24,24 @@ The New Grad level is given to people who join right out of college. This is oft
 
 You complete *tasks defined by others* with speed, resourcefulness, and proactivity. The tasks you take on are often *guaranteed* to have a solution, and can be done within a week or two. 
 
-You can take ownership over these tasks and deliver them *on time* with *little guidance*. To do this, you use a combination of your technical ability -- navigiating the codebase, debugging -- and your resourcefulness -- researching, reaching out to people, asking for help with clear questions. 
+You can take ownership over these tasks and deliver them *on time* with *little guidance*. To do this, you use a combination of your technical ability: navigating the codebase, debugging, and your resourcefulness: researching, reaching out to people, asking for help with clear questions. 
 
 ### People Expectations
 
 The main people dimensions at this level is *how you handle feedback*, and *how proactive you are*. 
 
-You learn quickly and are constantly searching for feedback. When you get it, you take it positively, and look for tangible ways to improve immediately.
+You learn quickly and are constantly searching for feedback. When you get it, you take it positively, and look for tangible ways to improve.
 
-When a task is confusing, or you reach an impass you don't know how to solve, you demonstrate positivity and proactivity, by asking for help, and remaining confident in your ability to complete the task. 
+When a task is confusing, or you reach an impasse you don't know how to solve, you demonstrate positivity and proactivity by asking for help, and remaining confident in your ability to complete the task. 
 
-You communicate well, and are proactively updating everyone around you about the timeline for your project when it changes. 
+You communicate well, and are proactively updating everyone around you about the timeline for your tasks when it changes. 
 
 ### Live Leveling Guides
 
 - [Patreon Leveling Guide](https://levels.patreon.com/)
-  - **IC 1** to **IC 2**. You can ignore parts in IC 2 that involvees supporting others (giving feedback to others, giving code reviews etc)
+  - See **IC 1** for the lower range, and **IC 2** for the higher range. You can ignore parts in IC 2 that involves supporting others (giving feedback to others, giving code reviews etc)
 - [Khan Academy Leveling Guide](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/)
-  - **Beginning Skillful** to **Skillful**. You can ignore parts related to breaking down complex tasks, supporting others
+  - See **Beginning Skillful** for the lower range, and **Skillful** for the higher range. You can ignore parts in **Skillful** related to breaking down complex tasks and supporting others
 
 # Engineer
 
@@ -54,7 +54,7 @@ The theme for this level is **high *individual* productivity**. You ship large p
 
 ### Technical Expectations
 
-You can own large features, which can require more then a month or so of work. You are able to break up the projeect into many tasks, and complete them with little guidance. 
+You can own large features, which can require more than a month or so of work. You are able to break up the project into many tasks, and complete them with little guidance. 
 
 You are *highly* effective as a coder. You consistently write code that's cohesive and maintenable. You proactively own and fix the codebase, whether it's upgrading to modern frameworks, adding tests, or refactoring confusing pieces. You demonstrate *high* throughput -- within your team, and perhaps the org, you may have one of the highest number of commits or the highest number of features shipped.
 
@@ -65,9 +65,9 @@ You give great code reviews to peers and junior engineers. You are a great mento
 ### More Data Points
 
 - [Patreon Leveling Guide](https://levels.patreon.com/)
-  - **IC 2** to **IC 3**. 
+  - **IC 2**
 - [Khan Academy Leveling Guide](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/)
-  - **Skillful** to **More Skillful**.
+  - **Skillful**
 
 # Senior Engineer
 
@@ -80,7 +80,7 @@ The theme for this level is **team leadership**. You are a strong, saught-out te
 
 ### Technical Expectations
 
-You own initiatives that can take as long as a half or two to complete, and involve multiple people. You have deeep, saught-after expertise in a technical domain and have a track record of leader large projects well. You can take large problems with tight deadlines, work cross-functionally across teams, create specs, divide up the work, and drive your team to deliver. You have demonstrated this multiple times.
+You own initiatives that can take as long as a half or two to complete, and involve multiple people. You have deep, sought-after expertise in a technical domain and have a track record of leader large projects well. You can take large problems with tight deadlines, work cross-functionally across teams, create specs, divide up the work, and drive your team to deliver. You have demonstrated this multiple times.
 
 You own the success of a significant system. You often find ways to improve that infrastructure, and build out initiatives that get the whole team on board. The work you do often influences other teams to improve their product as well.
 
@@ -95,7 +95,7 @@ You work with your engineering manager to make sure people are developing well o
 - [Patreon Leveling Guide](https://levels.patreon.com/)
   - **IC 3**
 - [Khan Academy Leveling Guide](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/)
-  - **Super Skillfull**
+  - **Super Skillful**
   
 # Staff Engineer
 
@@ -106,7 +106,7 @@ The Staff Engineer Level usually makes up less then 10% of the engineering team.
 
 ### Technical Expectations
 
-You own a suite of systems, and drive long-term initiatives to keep them impactful and maintainble. You can break down large problems into multiple systems that a team could work on. You often detangle and work on the hardest parts of these systems. You own problems that often involved coordinated, phased changes to different systems.
+You own a suite of systems, and drive long-term initiatives to keep them impactful and maintainable. You can break down large problems into multiple systems that a team could work on. You often detangle and work on the hardest parts of these systems. You own problems that often involved coordinated, phased changes to different systems.
 
 You have experience taking systems from conception to production -- from idea, to buy-in, to specs, to alignment, to comms, legal, and so forth. You have excellent communication skills, and can navigate throughout multiple orgs to find alignment and launch.  
 
@@ -114,7 +114,7 @@ You influence the engineering direction of your org. You are aware of the trends
 
 ### People Expectations
 
-You can mentor senior engineers, and are a strong partner to multiple leads. You are a culture vector for your teams, demonstrating the kinds of values that make an excepetional team member. 
+You can mentor senior engineers, and are a strong partner to multiple leads. You are a culture vector for your teams, demonstrating the kinds of values that make an exceptional team member. 
 
 You champion the people around you, and constantly work to make the whole org more effective. You take part in re-org discussions, take ownership over hiring, and the larger direction for the org. You look ways to multiply your impact -- this can involve writing, introducing new tooling, to setting up brown-bags.
 
@@ -123,4 +123,4 @@ You champion the people around you, and constantly work to make the whole org mo
 - [Patreon Leveling Guide](https://levels.patreon.com/)
   - **IC 4** to **IC 5**
 - [Khan Academy Leveling Guide](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/)
-  - **Super Skillful**
+  - **Ludicrously Skillful**
