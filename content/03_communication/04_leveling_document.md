@@ -39,7 +39,9 @@ You communicate well, and are proactively updating everyone around you about the
 ### Live Leveling Guides
 
 - [Patreon Leveling Guide](https://levels.patreon.com/)
+  - **IC 1** to **IC 2**. You can ignore parts in IC 2 that involvees supporting others (giving feedback to others, giving code reviews etc)
 - [Khan Academy Leveling Guide](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/)
+  - **Beginning Skillful** to **Skillful**. You can ignore parts related to breaking down complex tasks, supporting others
 
 # Engineer
 
@@ -52,18 +54,20 @@ The theme for this level is **high *individual* productivity**. You ship large p
 
 ### Technical Expectations
 
-You can own large features, which can require more then a month for work. You are able to break up the projeect into many tasks, and complete them with little guidance. 
+You can own large features, which can require more then a month or so of work. You are able to break up the projeect into many tasks, and complete them with little guidance. 
 
-You are *highly* effective as a coder. You consistently write code that's cohesive and maintenable. You proactively own and fix the codebase, whether it's upgrading to modern frameworks, adding tests, or refactoring confusing pieces. You demonstrate *high* throughput: within your team, and perhaps the org, you may have one of the highest number of commits or the highest number of features shipped.
+You are *highly* effective as a coder. You consistently write code that's cohesive and maintenable. You proactively own and fix the codebase, whether it's upgrading to modern frameworks, adding tests, or refactoring confusing pieces. You demonstrate *high* throughput -- within your team, and perhaps the org, you may have one of the highest number of commits or the highest number of features shipped.
 
 ### People Expectations
 
-You give great code reviews to peers and junior engineers. You are a great mentor on the craft of engineering. You have learned how the organization works -- from how products get shipped, to what to do if something breaks, and you know how to work well with PMs, managers, and tech leads. You can use that knowledge to join any large initiative and produce quickly. People are often very thankful when you join a project.
+You give great code reviews to peers and junior engineers. You are a great mentor on the craft of engineering. You have learned how the organization works -- from how products get shipped, to what to do if something breaks. You know how to work well with PMs, managers, and tech leads. You can use that knowledge to join any large initiative and produce quickly. People are often very thankful when you join a project.
 
-### Detailed Points
+### More Data Points
 
 - [Patreon Leveling Guide](https://levels.patreon.com/)
+  - **IC 2** to **IC 3**. 
 - [Khan Academy Leveling Guide](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/)
+  - **Skillful** to **More Skillful**.
 
 # Senior Engineer
 
@@ -86,29 +90,37 @@ As a technical leader of the team, you are a strong partner to your Engineering 
 
 You work with your engineering manager to make sure people are developing well on your team, and often step in to mentor some of them to improve. You constantly work to make people around your productive and content -- from introducing new best practices, to making development more ergonomic.
 
-### Detailed Points
+### More Data Points
 
 - [Patreon Leveling Guide](https://levels.patreon.com/)
+  - **IC 3**
 - [Khan Academy Leveling Guide](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/)
-
+  - **Super Skillfull**
+  
 # Staff Engineer
 
 - **Alternate names: E6, L6, SDE 4, IC 4**
 - **Experience Range: 7+ years**
 
-The Staff Engineer Level usually makes up less then 10% of the engineering workforce. The theme for this level is **organizational leadership**. You are a technical lead that takes ownership over multiple teams, and influences the direction greater organization you are a part of. The most key separator for the staff engineer from the levels below is scope: from team ownership to org ownership.
+The Staff Engineer Level usually makes up less then 10% of the engineering team. The theme for this level is **organizational leadership**. You are a technical lead that takes over ownership over a suite of systems, and influences organization you are a part of. The key separator for the staff engineer from the levels below is scope -- from team ownership to org ownership.
 
 ### Technical Expectations
 
-You own a suite of systems, and drive long-term initiatives to make them impactful and maintainble. You can break down large goals into multiple systems that a team could work on. You have excellent communication skills, and can navigate throughout multiple orgs to find alignment and launch significant products. You have experience taking systems from conception to production -- from idea, to buy-in, to specs, to alignment, to comms, legal, and so forth. Within these systems, you often take on some of the hardest problems with the most critical dependencies.  
+You own a suite of systems, and drive long-term initiatives to keep them impactful and maintainble. You can break down large problems into multiple systems that a team could work on. You often detangle and work on the hardest parts of these systems. You own problems that often involved coordinated, phased changes to different systems.
+
+You have experience taking systems from conception to production -- from idea, to buy-in, to specs, to alignment, to comms, legal, and so forth. You have excellent communication skills, and can navigate throughout multiple orgs to find alignment and launch.  
 
 You influence the engineering direction of your org. You are aware of the trends in the industry, and work proactively to keep your org well positioned.
 
 ### People Expectations
 
-You can mentor senior engineers, and are a strong partner to multiple leads. You are a culture vector for your teams, demonstrating the kinds of values that make an excepetional team member. You champion the people around you, and constantly work to make the whole org more effective. 
+You can mentor senior engineers, and are a strong partner to multiple leads. You are a culture vector for your teams, demonstrating the kinds of values that make an excepetional team member. 
 
-### Detailed Points
+You champion the people around you, and constantly work to make the whole org more effective. You take part in re-org discussions, take ownership over hiring, and the larger direction for the org. You look ways to multiply your impact -- this can involve writing, introducing new tooling, to setting up brown-bags.
+
+### More Data Points
 
 - [Patreon Leveling Guide](https://levels.patreon.com/)
+  - **IC 4** to **IC 5**
 - [Khan Academy Leveling Guide](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/)
+  - **Super Skillful**
