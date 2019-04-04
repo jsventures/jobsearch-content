@@ -6,7 +6,7 @@ Building the e-book requires the following (examples given for OSX machines):
 
 ```
 # Install pandoc
-brew cask install basictex
+brew install pandoc
 
 # Install latex
 # For OSX machines we can just install basictex
