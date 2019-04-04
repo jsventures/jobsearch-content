@@ -523,7 +523,7 @@ Once you have formed your mental game and enriched your communication you're rea
 
 ### Homework
 * Review signal and scope, the leveling guide, and your leveling homework.
-* Review example narrative and annotated resume document
+* Review example narrative and resume document
 * Update your narrative and resume with sentences that demonstrate your signal
 
 # Interview Phases
