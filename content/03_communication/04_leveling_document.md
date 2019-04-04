@@ -80,7 +80,7 @@ The theme for this level is **team leadership**. You are a strong, saught-out te
 
 ### Technical Expectations
 
-You own initiatives that can take as long as a half or two to complete, and involve multiple people. You have deep, sought-after expertise in a technical domain and have a track record of leader large projects well. You can take large problems with tight deadlines, work cross-functionally across teams, create specs, divide up the work, and drive your team to deliver. You have demonstrated this multiple times.
+You own initiatives that can take six months to a year to complete and involves multiple people. You have deep, sought-after expertise in a technical domain and have a track record of leader large projects well. You can take large problems with tight deadlines, work cross-functionally across teams, create specs, divide up the work, and drive your team to deliver. You have demonstrated this multiple times.
 
 You own the success of a significant system. You often find ways to improve that infrastructure, and build out initiatives that get the whole team on board. The work you do often influences other teams to improve their product as well.
 
