@@ -123,4 +123,4 @@ You champion the people around you, and constantly work to make the whole org mo
 - [Patreon Leveling Guide](https://levels.patreon.com/)
   - **IC 4** to **IC 5**
 - [Khan Academy Leveling Guide](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/)
-  - **Ludicrously Skillful** -->
+  - **Ludicrously Skillful** 
