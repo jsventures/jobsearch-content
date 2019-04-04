@@ -9,4 +9,3 @@ Once you have formed your mental game and enriched your communication you're rea
 * Review signal and scope, the leveling guide, and your leveling homework.
 * Review example narrative and annotated resume document
 * Update your narrative and resume with sentences that demonstrate your signal
-
