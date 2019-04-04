@@ -5,7 +5,7 @@ Joe: Hey everyone, my name is Joe.
 Stepan: And my name is Stepan.
 
 
-Joe: Thank you for investing in our course! We’re excited to help you land your dream offer. In this video, we’ll tell you a bit about us and what you can expect from this course.
+Joe: Thank you for investing in our course! We’re excited to help you land your dream offer. In this section, we’ll tell you a bit about us and what you can expect from this course.
 
 
 Stepan:
@@ -37,10 +37,10 @@ Stepan: We started sharing this with our friends, and began to notice real chang
 Joe: Our goal in this course is to give you the roadmap and the lessons you’ll need to complete a phenomenal job search.
 
 
-Stepan: To use this course effectively, start with the study guide. There, you’ll learn how you can layer these videos, to get the best out of the course.
+Stepan: To use this course effectively, start with the study guide. There, you’ll learn how you can layer the content, to get the best out of the course.
 
 
-Joe: Throughout most videos you’ll see homework. The homework is what’s going to truly make the difference.
+Joe: Throughout most sections you’ll see homework. The homework is what’s going to truly make the difference.
 
 
 Stepan: If you follow along, and truly give it an honest effort, you’ll come across more confident to recruiters, significantly improve your performance in the interview, and grow as an engineer.

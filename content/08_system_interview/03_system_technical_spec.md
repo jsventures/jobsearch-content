@@ -1,4 +1,4 @@
-## System Design: Technical Spec
+## System Design: The Technical Spec
 Now that we know much more clearly what problem we’re solving, let’s go broad, and build a **technical spec.**
 
 Your goal here is to outline all of the component parts we would need to build in our system. Imagine you will divide up work across a bunch of senior engineers, and you want to find out who will own what.

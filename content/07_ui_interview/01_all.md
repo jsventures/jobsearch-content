@@ -1,7 +1,7 @@
 ## UI Interview
 Let’s go over the UI Engineering Interview.
 
-We think this is one of the most fun interviews, because it’s the interview that’s most relevant to your day to day work as a UI engineer.
+We think this is one of the most fun interviews, because it’s the interview that’s most relevant to your day to day work as an UI engineer.
 
 When you go into the UI interview, you’ll work together with an engineer over a live session — usually over Coderpad or Codepen. You’ll encounter two kinds of problems:
 
@@ -18,7 +18,7 @@ To communicate this signal the best, we suggest you get comfortable with the fol
 You’ll constantly be working in Codepen. You’ll most likely want to use the libraries you use at work — usually React — and you should be able to set up an environment that renders "hello world”, in a few seconds.
 
 ### Building a bunch of UIs from scratch in online editors.
-You have been building UIs at work all the time, but it could have been a while since you have built a modal from scratch, or autocomplete, or worked with drag and drop. In the homework section, we’ve included about 4 or 5 different UIs that we suggest you build. These are meant to remind you of some of the JS concepts that you may not have gotten to do frequently at work. These questions are also **very frequently** asked in real interviews. Although some examples, using JS’s selection api, or drag and drop is uncommon, building a few projects here will ramp you up very quickly.
+You have been building UIs at work all the time, but it could have been a while since you have built a modal from scratch, or autocomplete, or worked with drag and drop. In the homework section, we’ve included about 4 or 5 different UIs that we suggest you build. These are meant to remind you of some of the JS concepts that you may not have gotten to do frequently at work. These questions are also **very frequently** asked in real interviews. Although some examples, using JS’s selection api, or drag and drop, are uncommon, building a few projects here will ramp you up very quickly.
 
 ### Debugging in online editors.
 You may already have mastered chrome’s developer tools from work, but it always helps to brush up. It’ll also be a bit different in online editors. You should be able to freely use debugger and console.logs to quickly narrow down on bugs. [We’ve included an article][debugging] that goes over all the tools you can use in Google Chrome. This can be helpful in and out of the interview. As you practice building a bunch of UIs, make an effort to use the debugging tools to narrow down your bugs more and more quickly.
@@ -27,7 +27,7 @@ You may already have mastered chrome’s developer tools from work, but it alway
 The example UIs may not specifically cover what you know and don’t know. We want you to reflect — what are the concepts that you’ve wanted to learn, that you haven’t learned yet? Perhaps you’ve rarely used Canvas, or haven’t tried Redux yet, or want to play with service workers. Catching up on these will help send **very positive** signal during the interview — showing you truly love the industry and are a self-learner. We suggest taking a look at some of Wes Bos’s courses — he loves the UI world and goes deep on a bunch of the latest concepts.
 
 ### Data structures and algorithms
-Even though you are in the UI engineering loop, and the chance you get asked heavy algorithm questions is lower, We strongly suggest preparing for algorithms anyway. Go through the **Algorithm Interview** section, and prepare for this interview too. If you prepare well for those, most of the coding-related questions in the UI loops will feel easy.
+Even though you are in the UI engineering loop, and the chance you get asked heavy algorithm questions is lower, we strongly suggest preparing for algorithms anyway. Go through the **Algorithm Interview** section, and prepare for this interview too. If you prepare well for those, most of the coding-related questions in the UI loops will feel easy.
 
 ### The live interview
 When you go through the interview, we suggest you structure your answers like this:

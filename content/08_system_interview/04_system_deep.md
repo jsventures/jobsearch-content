@@ -1,7 +1,7 @@
 ## System Design: Going Deep
 Now that we’ve gone broad, it’s time to go **deep**.
 
-At this point in the interview we’ve noted down a bunch of tradeoffs and problems remaining to solve. It’s time do demonstrate our expertise by going deep.
+At this point in the interview we’ve noted down a bunch of tradeoffs and problems remaining to be solved. It’s time do demonstrate our expertise by going deep.
 
 Here’s how we suggest you do this:
 
@@ -9,9 +9,9 @@ Start by looking at the most critical problems — perhaps it’s scaling a part
 
 Imagine now that you are giving this piece to a relatively strong, but inexperienced engineer. Now, spend the time to really unravel, and build up the spec for this piece.
 
-For example, say we are building out the twitter feed api — we need to answer what the parameters look like, how will paginating work? We now will handle how the client will merge the data.
+For example, say we are building out the twitter feed api — we need to answer what the parameters look like, how will paginating work?
 
-If any tradeoff comes to mind, make sure to mention it. For example, we could have feed connected through websockets, or through http — what would the tradeoffs be for both?
+Now we will handle how the client will merge the data. If any tradeoff comes to mind, make sure to mention it. For example, we could have feed connected through websockets, or through http — what would the tradeoffs be for both?
 
 Go problem by problem, until you are satisfied that you’ve dealt with the most important tradeoffs. If you have time, keep going.
 

@@ -15,7 +15,7 @@ Interviewers are **trained to expect** that candidates will need to be prodded a
 Now you’re ready for the system design interview, here’s to becoming a great architect!
 
 ### Homework
-1. Schedule at least 2 system design interviews. Reach out to senior engineer friends or mentors who could you with senior engineers. Ideally you want someone who has experience interviewing others on system design. Make sure you get a sense of the interview flow, and ask for feedback. By the end of the practice interviews, you should have a sense of the areas you are weak in.
+1. Schedule at least 2 system design interviews. Reach out to senior engineer friends or mentors who could connect you with senior engineers. Ideally you want someone who has experience interviewing others on system design. Make sure you get a sense of the interview flow, and ask for feedback. By the end of the practice interviews, you should have a sense of the areas you are weak in.
 2. To learn these areas, and make a study plan. Some suggestions
     * Learn more about real large-scale production systems, watch InfoQ videos: Some examples: [Pinterest][pinterest], [Dropbox][dropbox], and [Twitter][twitter]
     * Check out some [Rich Hickey Talks][rich-hickey]

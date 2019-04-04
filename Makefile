@@ -75,7 +75,6 @@ transcript:
 		NEW_FILE=$$(sed -e 's/$(RAW_CONTENT_DIR)/$(TRANSCRIPTS_DIR)/; s/$(RAW_EXT)/$(TRANSCRIPTS_EXT)/' <<< $$FILE); \
 		echo "Creating $$NEW_FILE from $$file"; \
 		NEW_DIR=$$(dirname $$NEW_FILE); \
-		echo $$NEW_DIR; \
 		mkdir -p $$NEW_DIR; \
 		pandoc $$file -o $$NEW_FILE; \
 	done

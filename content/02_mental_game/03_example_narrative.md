@@ -3,7 +3,7 @@ Below is an example of a narrative document we recommend you make early on in yo
 
 **Why did you join your last job?**
 
-I loved startups, and I was building a service business with my co-founder in China. We were beginning to be successful, but I realized two things. First, we wanted to solve ambitious and large problems, and both of us knew this business not one of those. Second, I realized I was growing in sales and marketing, but I was no longer growing technically. With that, we decided to wind down the business. I decided that I would dive deeper technically, and go where the biggest problems are being solved — San Francisco.
+I loved startups, and I was building a service business with my co-founder in China. We were beginning to be successful, but I realized two things. First, we wanted to solve ambitious and large problems, and both of us knew that this business is not one of those. Second, I realized I was growing in sales and marketing, but I was no longer growing technically. With that, we decided to wind down the business. I decided that I would dive deeper technically, and go where the biggest problems are being solved — San Francisco.
 
 I found a company where all of us were weird in the same way. We were solving an ambitious machine learning problem, with technology that proved to be very well chosen. We were one of the first .ai domains, one of the first docker users, and one of the pioneers of Clojure — a functional language in Lisp.
 
@@ -17,13 +17,13 @@ When I joined Facebook, for the first 2 years I was the UI lead on Oz -- a servi
 
 After that, I went on a 2-year long mission.
 
-The first, was to find product-market fit internally for Wit. I patented, tech-led, and launched two products, which integrate Wit with different orgs across Facebook.
+The first, was to find product-market fit internally for Wit. I patented, tech-led, and launched two products, which integrated Wit with different orgs across Facebook.
 
 Second, I owned, what I termed “The Great Migration”. This was a multi-phased migration, spanning over a year and a half and 6 people, with the goal of moving Wit business logic from our legacy infrastructure to Facebook.
 
 **Why are you leaving your job?**
 
-I finished The Great Migration in November. When I finished, I opened my eyes to breathe again. I had finished the commitment I had made, and I knew that the next commitment I would make would have a similar commitment of a few years. I decided then, before diving deeper, I should reflect — Do I want to dive deeper at Facebook, do I start a company, or do I join another company?
+I finished The Great Migration in November. When I finished, I opened my eyes to breathe again. I had finished the commitment I had made, and I knew that the next commitment I would make would have a similar commitment of a few years. I decided then, before diving deeper, I should reflect — Do I want to dive deeper at Facebook, do I start a company, or do I want to join another company?
 
 **What are you looking for in your next opportunity?**
 
