@@ -6,7 +6,7 @@ Building the e-book requires the following (examples given for OSX machines):
 
 ```
 # Install pandoc
-brew install pandoc
+brew cask install basictex
 
 # Install latex
 # For OSX machines we can just install basictex
@@ -21,7 +21,7 @@ sudo tlmgr install titlesec
 # Install python packages
 # We use markdown-pp to concatenate all our individual markdown files and apply chapter titles
 # You will need to install python and pip on your machine if you haven't already
-pip install markdown-pp
+pip install MarkdownPP
 ```
 
 After installing all dependencies you can re-generate a fresh copy of the book by running

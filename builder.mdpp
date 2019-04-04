@@ -15,7 +15,8 @@
 !INCLUDE "content/03_communication/01_communication_intro.md"
 !INCLUDE "content/03_communication/02_signal_scope.md"
 !INCLUDE "content/03_communication/03_leveling.md"
-!INCLUDE "content/03_communication/04_communicating_signal.md"
+!INCLUDE "content/03_communication/04_leveling_guide.md"
+!INCLUDE "content/03_communication/05_communicating_signal.md"
 
 # Interview Phases
 !INCLUDE "content/04_interview_phases/01_overview.md"
