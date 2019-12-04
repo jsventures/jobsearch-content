@@ -74,6 +74,8 @@ We decide to remove signup. This means:
 - To achieve this:
     - we introduce new directories and files to support mdbook
         - `web_content`, is a copy of our content with slight modifications that aren't compatible with our pdf generation
+            - we include iframe urls in every md file
+            - we updated `05_communicating_signal` to include a few links
         - `web_build`, the mdbook-built version of `web_content`
         - `theme` to insert a top header
         - `book.toml` to configure mdbook

@@ -13,3 +13,4 @@ create-missing = false
 google-analytics = "UA-85735847-2"
 git-repository-url = "https://github.com/nezaj/jobsearch-content"
 git-repository-icon = "fa-github"
+additional-css = ["theme/custom.css"]
