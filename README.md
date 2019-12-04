@@ -76,7 +76,7 @@ We decide to remove signup. This means:
     - (note: we _could_ have this be a static page, but there's no hurry)
     - We still have sign-ups / course-links on wordpress, but there are no direct links to them
         - [Someday/Maybe]: Hard remove sign-up / course-links from wordpress
-- Use mdbook to host a GH site of the contenet
+- Use mdbook v0.3.1 to host a GH site of the contenet
 - To achieve this:
     - we introduce new directories and files to support mdbook
         - `web_content`, is a copy of our content with slight modifications that aren't compatible with our pdf generation
