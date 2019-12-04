@@ -83,3 +83,7 @@ We decide to remove signup. This means:
         - `book.toml` to configure mdbook
     - book pdf still works the same:
         - `titlesec.tex`, `builder.mdpp`, `content` as the source, `build` is what outputs the individual and book pdf files
+    - We use CloudFlare for DNS configuration. 
+    - We use Wordpress with WPEngine to host the landing page and email sign up
+    - We use mailchimp to collect emails
+    - We use Github pages with a custom to host the static content
