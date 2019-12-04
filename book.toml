@@ -10,7 +10,7 @@ build-dir = "web_build"
 create-missing = false
 
 [output.html]
-google-analytics = "UA-85735847-2"
+google-analytics = "UA-85735847-3"
 git-repository-url = "https://github.com/nezaj/jobsearch-content"
 git-repository-icon = "fa-github"
 additional-css = ["theme/custom.css"]
