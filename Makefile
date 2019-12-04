@@ -10,12 +10,13 @@ RAW_CONTENT_FILES := $(shell find $(RAW_CONTENT_DIR) -name "*.md")
 
 # Generated files
 BUILD_DIR = 'build'
+WEB_BUILD_DIR = 'web_build'
 
 ## Transcripts
 TRANSCRIPTS_EXT = '.pdf'
 TRANSCRIPTS_DIR = $(BUILD_DIR)\/transcripts
 
-## E-book
+## PDF book
 BUILDER = 'builder.mdpp'
 PREPROCESS = 'preprocessed.md'
 BOOK_OUTPUT = 'job_search.pdf'
@@ -81,3 +82,13 @@ transcript:
 
 site-dev:
 	mdbook serve
+
+site-deploy:
+	mdbook build
+	touch $(WEB_BUILD_DIR)/.nojekyll
+	git checkout -B gh-pages
+	git add -f $(WEB_BUILD_DIR)
+	git commit -am "Rebuild website"
+	git filter-branch -f --prune-empty --subdirectory-filter $(WEB_BUILD_DIR)
+	git push -f origin gh-pages
+	git checkout -
