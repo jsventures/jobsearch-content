@@ -1,0 +1,11 @@
+[book]
+authors = ["Joseph Averbukh", "Stepan Parunashvili"]
+language = "en"
+multilingual = false
+src = "content"
+title = "Senior Engineer Jobsearch"
+
+[output.html]
+google-analytics = "UA-85735847-2"
+git-repository-url = "https://github.com/nezaj/jobsearch-content"
+git-repository-icon = "fa-github"
