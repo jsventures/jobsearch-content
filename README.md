@@ -14,7 +14,9 @@ To build the site, make sure you have rust installed, then install mdbook.
 
 We use github pages to host our static content. Deploying is easy:
 
-1. Run `make deploy`
+```
+make deploy
+```
 
 ### Building the pdf e-book (content -> build)
 
@@ -68,10 +70,12 @@ Everything is on wordpress. we have pdf generation. All the content lives in `co
 - `content` stores raw markdown, `build` keeps the pdfs
 - we copy this repo inside our wordpress theme, which lets us link to the pdfs
 
-#### V1: Decembere 2019 (Remove sign-ups)
+#### V1: December 2019 (Remove sign-ups)
 We decide to remove signup. This means:
 - We'll keep wordpress _just_ for the landing page
     - (note: we _could_ have this be a static page, but there's no hurry)
+    - We still have sign-ups / course-links on wordpress, but there are no direct links to them
+        - [Someday/Maybe]: Hard remove sign-up / course-links from wordpress
 - Use mdbook to host a GH site of the contenet
 - To achieve this:
     - we introduce new directories and files to support mdbook
@@ -83,7 +87,7 @@ We decide to remove signup. This means:
         - `book.toml` to configure mdbook
     - book pdf still works the same:
         - `titlesec.tex`, `builder.mdpp`, `content` as the source, `build` is what outputs the individual and book pdf files
-    - We use CloudFlare for DNS configuration. 
+    - We use CloudFlare for DNS configuration.
     - We use Wordpress with WPEngine to host the landing page and email sign up
     - We use mailchimp to collect emails
     - We use Github pages with a custom to host the static content
