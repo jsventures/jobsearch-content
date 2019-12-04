@@ -49,10 +49,10 @@ make book
 
 The book should now open up in preview. If it doesn't you can find it under the `build` folder
 
-### Building transcripts
-Previously we would use this to re-generate individual PDFs of our content. This is somewhat deprecated now given that we use mdbook
+### Building transcripts (deprecated)
+*Previously we would use this to re-generate individual PDFs of our content. This is somewhat deprecated now given that we use mdbook
 to serve a static site and have no need to link to individual transcripts. Nonetheless will keep this for now and potentially
-delete it later.
+delete it later.*
 
 You can build all the transcripts by running the following command
 ```
