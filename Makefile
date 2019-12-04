@@ -85,7 +85,8 @@ site-dev:
 
 site-deploy:
 	mdbook build
-	touch $(WEB_BUILD_DIR)/.nojekyll
+	touch $(WEB_BUILD_DIR)/.nojekyll # gh-pages needs to know that this does not use jekyll
+	cp CNAME $(WEB_BUILD_DIR)/CNAME # gh-pages custom subdomain
 	git checkout -B gh-pages
 	git add -f $(WEB_BUILD_DIR)
 	git commit -am "Rebuild website"
