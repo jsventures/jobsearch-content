@@ -80,10 +80,10 @@ transcript:
 		pandoc $$file -o $$NEW_FILE; \
 	done
 
-site-dev:
+dev:
 	mdbook serve
 
-site-deploy:
+deploy:
 	mdbook build
 	touch $(WEB_BUILD_DIR)/.nojekyll # gh-pages needs to know that this does not use jekyll
 	cp CNAME $(WEB_BUILD_DIR)/CNAME # gh-pages custom subdomain

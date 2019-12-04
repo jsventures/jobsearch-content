@@ -8,11 +8,13 @@ To build the site, make sure you have rust installed, then install mdbook.
 
 1. Go to [this site](https://www.rust-lang.org/tools/install) for a quick curl to install rust & cargo
 2. Then run `cargo install mdbook`
-3. Once done, you can run `make site-dev`, and view the beauty on localhost:3000
+3. Once done, you can run `make dev`, and view the beauty on localhost:3000
 
 ### Deploying the static site
 
-TODO
+We use github pages to host our static content. Deploying is easy:
+
+1. Run `make deploy`
 
 ### Building the pdf e-book (content -> build)
 
