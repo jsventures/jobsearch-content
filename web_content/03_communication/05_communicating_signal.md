@@ -9,6 +9,6 @@ Now, it’s time to **calibrate.** Our goal here is to ensure the signal you con
 Once you have formed your mental game and enriched your communication you're ready to start the interview process strong!
 
 ### Homework
-* Review signal and scope, the leveling guide, and your leveling homework.
-* Review example narrative and resume document
+* Review signal and scope, the [leveling guide](../03_communication/04_leveling_guide.md), and your leveling homework.
+* Review [example narrative](../02_mental_game/03_example_narrative.md) and [resume document](https://docs.google.com/viewer?url=https://github.com/nezaj/jobsearch-content/raw/master/assets/stepan-resume.pdf)
 * Update your narrative and resume with sentences that demonstrate your signal
