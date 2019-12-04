@@ -78,3 +78,6 @@ transcript:
 		mkdir -p $$NEW_DIR; \
 		pandoc $$file -o $$NEW_FILE; \
 	done
+
+site-dev:
+	mdbook serve

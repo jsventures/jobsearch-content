@@ -1,6 +1,14 @@
 # Senior Engineer Job Search Content
 Repo for the text accompaniment for www.jobsearch.dev
 
+### Building the site
+
+To build the site, make sure you have rust installed, then install mdbook.
+
+1. Go to [this site](https://www.rust-lang.org/tools/install) for a quick curl to install rust & cargo
+2. Then run `cargo install mdbook`
+3. Once done, you can run `make site-dev`, and view the beauty on localhost:3000
+
 ### Building the e-book
 Building the e-book requires the following (examples given for OSX machines):
 
