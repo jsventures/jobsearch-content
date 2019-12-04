@@ -2,8 +2,12 @@
 authors = ["Joseph Averbukh", "Stepan Parunashvili"]
 language = "en"
 multilingual = false
-src = "content"
+src = "web_content"
 title = "Senior Engineer Jobsearch"
+
+[build]
+build-dir = "web_build"
+create-missing = false
 
 [output.html]
 google-analytics = "UA-85735847-2"

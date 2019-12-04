@@ -1,7 +1,8 @@
 # Senior Engineer Job Search Content
-Repo for the text accompaniment for www.jobsearch.dev
 
-### Building the site
+Repo for course.jobsearch.dev
+
+### Building the static site (web_content)
 
 To build the site, make sure you have rust installed, then install mdbook.
 
@@ -9,8 +10,13 @@ To build the site, make sure you have rust installed, then install mdbook.
 2. Then run `cargo install mdbook`
 3. Once done, you can run `make site-dev`, and view the beauty on localhost:3000
 
-### Building the e-book
-Building the e-book requires the following (examples given for OSX machines):
+### Deploying the static site
+
+TODO
+
+### Building the pdf e-book (content -> build)
+
+We offer an accompanying pdf of all our content. Building the e-book requires the following (examples given for OSX machines):
 
 ```
 # Install pandoc
@@ -40,6 +46,10 @@ make book
 The book should now open up in preview. If it doesn't you can find it under the `build` folder
 
 ### Building transcripts
+Previously we would use this to re-generate individual PDFs of our content. This is somewhat deprecated now given that we use mdbook
+to serve a static site and have no need to link to individual transcripts. Nonetheless will keep this for now and potentially
+delete it later.
+
 You can build all the transcripts by running the following command
 ```
 make all-transcripts
@@ -48,3 +58,24 @@ You can build an individual transcript by doing the following
 ```
 FILE=path/to/raw/file.md make transcript
 ```
+
+## Notes
+
+#### V0: April 2019 (The beginning)
+Everything is on wordpress. we have pdf generation. All the content lives in `content` and `build`
+- `content` stores raw markdown, `build` keeps the pdfs
+- we copy this repo inside our wordpress theme, which lets us link to the pdfs
+
+#### V1: Decembere 2019 (Remove sign-ups)
+We decide to remove signup. This means:
+- We'll keep wordpress _just_ for the landing page
+    - (note: we _could_ have this be a static page, but there's no hurry)
+- Use mdbook to host a GH site of the contenet
+- To achieve this:
+    - we introduce new directories and files to support mdbook
+        - `web_content`, is a copy of our content with slight modifications that aren't compatible with our pdf generation
+        - `web_build`, the mdbook-built version of `web_content`
+        - `theme` to insert a top header
+        - `book.toml` to configure mdbook
+    - book pdf still works the same:
+        - `titlesec.tex`, `builder.mdpp`, `content` as the source, `build` is what outputs the individual and book pdf files
