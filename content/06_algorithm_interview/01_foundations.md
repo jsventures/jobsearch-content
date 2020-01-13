@@ -93,5 +93,5 @@ By going through lots of problems in different areas you will be ready to take o
     * Wildcard Matching
     * Minimum Window Substring
 
-[leetcode]: www.leetcode.com
+[leetcode]: http://www.leetcode.com
 
