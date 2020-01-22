@@ -626,7 +626,7 @@ If you pass the technical screen the next step is the onsite!
 The onsite is typically the last stage with a company in the interviewing process. If you do well here you should expect to receive the offer. You should expect to spend between 4-7 hours at the office. You will meet a lot of people and be asked a lot of questions. There are several types of interviews you will encounter that day:
 
 * Algorithm: Similar format and difficulty as the technical screen. See the section on **Algorithm Interview**
-* UI: For front-end/UI  engineers. Also similar format and difficulty as the technical screen. See the section on **Algorithim Interview**
+* UI: For front-end/UI  engineers. Also similar format and difficulty as the technical screen. See the section on **Algorithm Interview**
 * System Design: This interview is especially important for leveling. It's crucial you clarify the objective for this interview. See the section on **System Design**
 * Experience: This interview is also used for leveling. See the section on **Experience Interview**
 * Hiring Manager: In this interview you will hopefully meet your prospective manager. In some places the hiring manager interview will be identical to the experience interview. In any case, make sure your answers convey signal and scope for your target level. This is also your opportunity to get a feel for your manager. Evaluate whether they would be a good fit for you.
@@ -810,7 +810,7 @@ By going through lots of problems in different areas you will be ready to take o
     * Wildcard Matching
     * Minimum Window Substring
 
-[leetcode]: www.leetcode.com
+[leetcode]: http://www.leetcode.com
 
 ## Mock and Real Algorithm Interviews
 Once you have your foundations it's time to do some mock interviews. There is a difference between solving problems on your own vs in front of someone else. For example:
