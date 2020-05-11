@@ -15,6 +15,6 @@ A recruiter may ask at this stage what your expected compensation is. To get an 
 ### Homework
 * Read [patio11's salaray negotiation article][patio11]
 
-[levels]: www.levels.fyi
+[levels]: https://www.levels.fyi
 [patio11]: https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 
