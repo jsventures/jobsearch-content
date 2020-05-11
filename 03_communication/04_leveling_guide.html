@@ -1,0 +1,340 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Leveling Guide - Senior Engineer Jobsearch</title>
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="../theme/custom.css">
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "light" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../01_introductions/01_course_intro.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../01_introductions/02_audience.html"><strong aria-hidden="true">1.1.</strong> Audience</a></li><li class="chapter-item expanded "><a href="../01_introductions/03_study_plan.html"><strong aria-hidden="true">1.2.</strong> Study Plan</a></li></ol></li><li class="chapter-item expanded "><a href="../02_mental_game/00_mental_game_intro.html"><strong aria-hidden="true">2.</strong> Mental Game</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../02_mental_game/01_attitude.html"><strong aria-hidden="true">2.1.</strong> Attitude</a></li><li class="chapter-item expanded "><a href="../02_mental_game/02_narrative.html"><strong aria-hidden="true">2.2.</strong> Narrative</a></li><li class="chapter-item expanded "><a href="../02_mental_game/03_example_narrative.html"><strong aria-hidden="true">2.3.</strong> Example Narrative</a></li><li class="chapter-item expanded "><a href="../02_mental_game/04_community.html"><strong aria-hidden="true">2.4.</strong> Community</a></li><li class="chapter-item expanded "><a href="../02_mental_game/05_commitment.html"><strong aria-hidden="true">2.5.</strong> Commitment</a></li></ol></li><li class="chapter-item expanded "><a href="../03_communication/01_communication_intro.html"><strong aria-hidden="true">3.</strong> Communication</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../03_communication/02_signal_scope.html"><strong aria-hidden="true">3.1.</strong> Signal &amp; Scope</a></li><li class="chapter-item expanded "><a href="../03_communication/03_leveling.html"><strong aria-hidden="true">3.2.</strong> Leveling</a></li><li class="chapter-item expanded "><a href="../03_communication/04_leveling_guide.html" class="active"><strong aria-hidden="true">3.3.</strong> Leveling Guide</a></li><li class="chapter-item expanded "><a href="../03_communication/05_communicating_signal.html"><strong aria-hidden="true">3.4.</strong> Communicating Signal</a></li></ol></li><li class="chapter-item expanded "><a href="../04_interview_phases/01_overview.html"><strong aria-hidden="true">4.</strong> Interview Phases</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../04_interview_phases/02_ramp_up.html"><strong aria-hidden="true">4.1.</strong> Ramp Up</a></li><li class="chapter-item expanded "><a href="../04_interview_phases/03_recruiter_screen.html"><strong aria-hidden="true">4.2.</strong> Recruiter Screen</a></li><li class="chapter-item expanded "><a href="../04_interview_phases/04_technical_screen.html"><strong aria-hidden="true">4.3.</strong> Technical Screen</a></li><li class="chapter-item expanded "><a href="../04_interview_phases/05_onsites.html"><strong aria-hidden="true">4.4.</strong> Onsites</a></li></ol></li><li class="chapter-item expanded "><a href="../05_offer_stage/01_choosing.html"><strong aria-hidden="true">5.</strong> Offer Stage</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../05_offer_stage/02_negotiating.html"><strong aria-hidden="true">5.1.</strong> Negotiating</a></li><li class="chapter-item expanded "><a href="../05_offer_stage/03_concluding.html"><strong aria-hidden="true">5.2.</strong> Concluding</a></li></ol></li><li class="chapter-item expanded "><a href="../06_algorithm_interview/01_foundations.html"><strong aria-hidden="true">6.</strong> Algorithm Interview</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../06_algorithm_interview/02_mock_real_interviews.html"><strong aria-hidden="true">6.1.</strong> Mock &amp; Real Interviews</a></li></ol></li><li class="chapter-item expanded "><a href="../07_ui_interview/01_all.html"><strong aria-hidden="true">7.</strong> UI Interview</a></li><li class="chapter-item expanded "><a href="../08_system_interview/01_system_pre_interview.html"><strong aria-hidden="true">8.</strong> System Design Interview</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../08_system_interview/02_system_functional_spec.html"><strong aria-hidden="true">8.1.</strong> Functional Spec</a></li><li class="chapter-item expanded "><a href="../08_system_interview/03_system_technical_spec.html"><strong aria-hidden="true">8.2.</strong> Technical Spec</a></li><li class="chapter-item expanded "><a href="../08_system_interview/04_system_deep.html"><strong aria-hidden="true">8.3.</strong> Going Deep</a></li><li class="chapter-item expanded "><a href="../08_system_interview/05_system_final_advice.html"><strong aria-hidden="true">8.4.</strong> Final Advice</a></li></ol></li><li class="chapter-item expanded "><a href="../09_experience_interview/01_experience_purpose.html"><strong aria-hidden="true">9.</strong> Experience Interview</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../09_experience_interview/02_experience_fit.html"><strong aria-hidden="true">9.1.</strong> Fit</a></li><li class="chapter-item expanded "><a href="../09_experience_interview/03_experience_leveling.html"><strong aria-hidden="true">9.2.</strong> Leveling</a></li><li class="chapter-item expanded "><a href="../09_experience_interview/04_experience_follow_up.html"><strong aria-hidden="true">9.3.</strong> Followup</a></li></ol></li><li class="chapter-item expanded "><a href="../10_conclusions/01_take_aways.html"><strong aria-hidden="true">10.</strong> Takeaways</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div class="custom-header">
+  <a
+    href="https://docs.google.com/viewer?url=https://github.com/nezaj/jobsearch-content/raw/master/build/book/job_search.pdf"
+    class="custom-menu-item"
+    target="_blank">
+    Course PDF
+  </a>
+  <a 
+    class="custom-menu-item"
+    href="http://eepurl.com/gkf9pj"
+    target="_blank">
+    Keep in touch :)
+  </a>
+</div>
+
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">Senior Engineer Jobsearch</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        <a href="https://github.com/nezaj/jobsearch-content" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h2><a class="header" href="#leveling-guide" id="leveling-guide">Leveling Guide</a></h2>
+<p>This document goes over each level you need to be aware of, as well as the technical and people expectations behind them. </p>
+<p>We suggest using the document in two ways: </p>
+<ol>
+<li>
+<p>Form a conviction for your level</p>
+<p>As we discussed in the homework for <em>Communicating Signal</em>, you'll want to go over these levels, and get a sense of where you stand. You should have examples from your experience that match the description in these levels, and give you a strong sense of where you are at in your career.</p>
+</li>
+<li>
+<p>Get a sense of the compensation ranges</p>
+<p>For each level, we've included the alternate names that most companies use. Go on <a href="https://levels.fyi">levels.fyi</a>, and take a peak at the compensation ranges for the companies you are aiming for. When time comes to communicate numbers to your recruiter, having accurate knowledge and concisely conveying it, signals strength and experience.</p>
+</li>
+</ol>
+<h3><a class="header" href="#new-grad" id="new-grad">New-Grad</a></h3>
+<ul>
+<li>Alternate names: E3, L3, SDE 1, IC 1</li>
+<li>Experience Range: 1-2 years</li>
+</ul>
+<p>The New Grad level is given to people who join right out of college. This is often <em>the only</em> time where companies assign this level. If this is not your first job search, carry on to the level above.</p>
+<p><em><strong>Technical Expectations</strong></em></p>
+<p>You complete <em>tasks defined by others</em> with speed, resourcefulness, and proactivity. The tasks you take on are often <em>guaranteed</em> to have a solution, and can be done within a week or two. </p>
+<p>You can take ownership over these tasks and deliver them <em>on time</em> with <em>little guidance</em>. To do this, you use a combination of your technical ability: navigating the codebase, debugging, and your resourcefulness: researching, reaching out to people, asking for help with clear questions. </p>
+<p><em><strong>People Expectations</strong></em></p>
+<p>The main people dimensions at this level is <em>how you handle feedback</em>, and <em>how proactive you are</em>. </p>
+<p>You learn quickly and are constantly searching for feedback. When you get it, you take it positively, and look for tangible ways to improve.</p>
+<p>When a task is confusing, or you reach an impasse you don't know how to solve, you demonstrate positivity and proactivity by asking for help, and remaining confident in your ability to complete the task. </p>
+<p>You communicate well, and are proactively updating everyone around you about the timeline for your tasks when it changes. </p>
+<p><em><strong>Live Leveling Guides</strong></em></p>
+<ul>
+<li><strong><a href="https://levels.patreon.com/">Patreon Leveling Guide</a></strong>: See &quot;IC 1&quot; for the lower range, and &quot;IC 2&quot; for the higher range. You can ignore parts in IC 2 that involves supporting others (giving feedback to others, giving code reviews etc)</li>
+<li><strong><a href="https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/">Khan Academy Leveling Guide</a></strong>: See &quot;Beginning Skillful&quot; for the lower range, and &quot;Skillful&quot; for the higher range. You can ignore parts in Skillful related to breaking down complex tasks and supporting others</li>
+</ul>
+<h3><a class="header" href="#engineer" id="engineer">Engineer</a></h3>
+<ul>
+<li>Alternate names: E4, L4, SDE 2, IC 2</li>
+<li>Experience Range: 2-5 years</li>
+</ul>
+<p>The Engineer Level is a large band that ranges from highly productive new grads with a year's worth of experience, to people with 4 years of experience who have shipped significant products.</p>
+<p>The theme for this level is <em>high individual productivity</em>. You ship large projects and features, but don't yet own responsibility for your team's outcomes.</p>
+<p><em><strong>Technical Expectations</strong></em></p>
+<p>You can own large features, which can require more than a month or so of work. You are able to break up the project into many tasks, and complete them with little guidance. </p>
+<p>You are <em>highly</em> effective as a coder. You consistently write code that's cohesive and maintenable. You proactively own and fix the codebase, whether it's upgrading to modern frameworks, adding tests, or refactoring confusing pieces. You demonstrate <em>high</em> throughput -- within your team, and perhaps the org, you may have one of the highest number of commits or the highest number of features shipped.</p>
+<p><em><strong>People Expectations</strong></em></p>
+<p>You give great code reviews to peers and junior engineers. You are a great mentor on the craft of engineering. You have learned how the organization works -- from how products get shipped, to what to do if something breaks. You know how to work well with PMs, managers, and tech leads. You can use that knowledge to join any large initiative and produce quickly. People are often very thankful when you join a project.</p>
+<p><em><strong>Live Leveling Guides</strong></em></p>
+<ul>
+<li><strong><a href="https://levels.patreon.com/">Patreon Leveling Guide</a></strong>: See &quot;IC 2&quot;</li>
+<li><strong><a href="https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/">Khan Academy Leveling Guide</a></strong>: See &quot;Skillful&quot;</li>
+</ul>
+<h3><a class="header" href="#senior-engineer" id="senior-engineer">Senior Engineer</a></h3>
+<ul>
+<li>Alternate names: E5, L5, SDE 3, IC 3</li>
+<li>Experience Range: 5+ years</li>
+</ul>
+<p>The Senior Engineer Level is the terminal band for most engineers. This means that at this level, you are are a capable, strong engineering leader, and can stay at this level for the rest of your career if you so choose.</p>
+<p>The theme for this level is <strong>team leadership</strong>. You are a strong, saught-out technical leader, and a mentor amongst your team. The most key separator for the senior engineer from the levels below is a deeper expectation on the people dimension.</p>
+<p><em><strong>Technical Expectations</strong></em></p>
+<p>You own initiatives that can take six months to a year to complete and involves multiple people. You have deep, sought-after expertise in a technical domain and have a track record of leader large projects well. You can take large problems with tight deadlines, work cross-functionally across teams, create specs, divide up the work, and drive your team to deliver. You have demonstrated this multiple times.</p>
+<p>You own the success of a significant system. You often find ways to improve that infrastructure, and build out initiatives that get the whole team on board. The work you do often influences other teams to improve their product as well.</p>
+<p><em><strong>People Expectations</strong></em></p>
+<p>As a technical leader of the team, you are a strong partner to your Engineering Manager and a mentor for others. You may take on aspects of engineering management or product management, from leading standups to communicating progress, to hiring. You know how to work throughout different organizations to align and unblock large projects, and have done that multipl times. </p>
+<p>You work with your engineering manager to make sure people are developing well on your team, and often step in to mentor some of them to improve. You constantly work to make people around your productive and content -- from introducing new best practices, to making development more ergonomic.</p>
+<p><em><strong>Live Leveling Guides</strong></em></p>
+<ul>
+<li><strong><a href="https://levels.patreon.com/">Patreon Leveling Guide</a></strong>: See &quot;IC 3&quot;</li>
+<li><strong><a href="https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/">Khan Academy Leveling Guide</a></strong>: See &quot;Super Skillful&quot;</li>
+</ul>
+<h3><a class="header" href="#staff-engineer" id="staff-engineer">Staff Engineer</a></h3>
+<ul>
+<li>Alternate names: E6, L6, SDE 4, IC 4</li>
+<li>Experience Range: 7+ years</li>
+</ul>
+<p>The Staff Engineer Level usually makes up less then 10% of the engineering team. The theme for this level is <strong>organizational leadership</strong>. You are a technical lead that takes over ownership over a suite of systems, and influences organization you are a part of. The key separator for the staff engineer from the levels below is scope -- from team ownership to org ownership.</p>
+<p><em><strong>Technical Expectations</strong></em></p>
+<p>You own a suite of systems, and drive long-term initiatives to keep them impactful and maintainable. You can break down large problems into multiple systems that a team could work on. You often detangle and work on the hardest parts of these systems. You own problems that often involved coordinated, phased changes to different systems.</p>
+<p>You have experience taking systems from conception to production -- from idea, to buy-in, to specs, to alignment, to comms, legal, and so forth. You have excellent communication skills, and can navigate throughout multiple orgs to find alignment and launch.</p>
+<p>You influence the engineering direction of your org. You are aware of the trends in the industry, and work proactively to keep your org well positioned.</p>
+<p><em><strong>People Expectations</strong></em></p>
+<p>You can mentor senior engineers, and are a strong partner to multiple leads. You are a culture vector for your teams, demonstrating the kinds of values that make an exceptional team member. </p>
+<p>You champion the people around you, and constantly work to make the whole org more effective. You take part in re-org discussions, take ownership over hiring, and the larger direction for the org. You look ways to multiply your impact -- this can involve writing, introducing new tooling, to setting up brown-bags.</p>
+<p><em><strong>Live Leveling Guides</strong></em></p>
+<ul>
+<li><strong><a href="https://levels.patreon.com/">Patreon Leveling Guide</a></strong>: See &quot;IC 4&quot; to &quot;IC 5&quot;</li>
+<li><strong><a href="https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/">Khan Academy Leveling Guide</a></strong>: See &quot;Ludicrously Skillful&quot;</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="../03_communication/03_leveling.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="../03_communication/05_communicating_signal.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="../03_communication/03_leveling.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="../03_communication/05_communicating_signal.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+        <!-- Google Analytics Tag -->
+        <script type="text/javascript">
+            var localAddrs = ["localhost", "127.0.0.1", ""];
+
+            // make sure we don't activate google analytics if the developer is
+            // inspecting the book locally...
+            if (localAddrs.indexOf(document.location.hostname) === -1) {
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+                ga('create', 'UA-85735847-3', 'auto');
+                ga('send', 'pageview');
+            }
+        </script>
+        
+
+        
+        
+        
+        <script type="text/javascript">
+            window.playpen_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

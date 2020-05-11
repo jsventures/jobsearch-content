@@ -1,0 +1,291 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Ramp Up - Senior Engineer Jobsearch</title>
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="../theme/custom.css">
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "light" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../01_introductions/01_course_intro.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../01_introductions/02_audience.html"><strong aria-hidden="true">1.1.</strong> Audience</a></li><li class="chapter-item expanded "><a href="../01_introductions/03_study_plan.html"><strong aria-hidden="true">1.2.</strong> Study Plan</a></li></ol></li><li class="chapter-item expanded "><a href="../02_mental_game/00_mental_game_intro.html"><strong aria-hidden="true">2.</strong> Mental Game</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../02_mental_game/01_attitude.html"><strong aria-hidden="true">2.1.</strong> Attitude</a></li><li class="chapter-item expanded "><a href="../02_mental_game/02_narrative.html"><strong aria-hidden="true">2.2.</strong> Narrative</a></li><li class="chapter-item expanded "><a href="../02_mental_game/03_example_narrative.html"><strong aria-hidden="true">2.3.</strong> Example Narrative</a></li><li class="chapter-item expanded "><a href="../02_mental_game/04_community.html"><strong aria-hidden="true">2.4.</strong> Community</a></li><li class="chapter-item expanded "><a href="../02_mental_game/05_commitment.html"><strong aria-hidden="true">2.5.</strong> Commitment</a></li></ol></li><li class="chapter-item expanded "><a href="../03_communication/01_communication_intro.html"><strong aria-hidden="true">3.</strong> Communication</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../03_communication/02_signal_scope.html"><strong aria-hidden="true">3.1.</strong> Signal &amp; Scope</a></li><li class="chapter-item expanded "><a href="../03_communication/03_leveling.html"><strong aria-hidden="true">3.2.</strong> Leveling</a></li><li class="chapter-item expanded "><a href="../03_communication/04_leveling_guide.html"><strong aria-hidden="true">3.3.</strong> Leveling Guide</a></li><li class="chapter-item expanded "><a href="../03_communication/05_communicating_signal.html"><strong aria-hidden="true">3.4.</strong> Communicating Signal</a></li></ol></li><li class="chapter-item expanded "><a href="../04_interview_phases/01_overview.html"><strong aria-hidden="true">4.</strong> Interview Phases</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../04_interview_phases/02_ramp_up.html" class="active"><strong aria-hidden="true">4.1.</strong> Ramp Up</a></li><li class="chapter-item expanded "><a href="../04_interview_phases/03_recruiter_screen.html"><strong aria-hidden="true">4.2.</strong> Recruiter Screen</a></li><li class="chapter-item expanded "><a href="../04_interview_phases/04_technical_screen.html"><strong aria-hidden="true">4.3.</strong> Technical Screen</a></li><li class="chapter-item expanded "><a href="../04_interview_phases/05_onsites.html"><strong aria-hidden="true">4.4.</strong> Onsites</a></li></ol></li><li class="chapter-item expanded "><a href="../05_offer_stage/01_choosing.html"><strong aria-hidden="true">5.</strong> Offer Stage</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../05_offer_stage/02_negotiating.html"><strong aria-hidden="true">5.1.</strong> Negotiating</a></li><li class="chapter-item expanded "><a href="../05_offer_stage/03_concluding.html"><strong aria-hidden="true">5.2.</strong> Concluding</a></li></ol></li><li class="chapter-item expanded "><a href="../06_algorithm_interview/01_foundations.html"><strong aria-hidden="true">6.</strong> Algorithm Interview</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../06_algorithm_interview/02_mock_real_interviews.html"><strong aria-hidden="true">6.1.</strong> Mock &amp; Real Interviews</a></li></ol></li><li class="chapter-item expanded "><a href="../07_ui_interview/01_all.html"><strong aria-hidden="true">7.</strong> UI Interview</a></li><li class="chapter-item expanded "><a href="../08_system_interview/01_system_pre_interview.html"><strong aria-hidden="true">8.</strong> System Design Interview</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../08_system_interview/02_system_functional_spec.html"><strong aria-hidden="true">8.1.</strong> Functional Spec</a></li><li class="chapter-item expanded "><a href="../08_system_interview/03_system_technical_spec.html"><strong aria-hidden="true">8.2.</strong> Technical Spec</a></li><li class="chapter-item expanded "><a href="../08_system_interview/04_system_deep.html"><strong aria-hidden="true">8.3.</strong> Going Deep</a></li><li class="chapter-item expanded "><a href="../08_system_interview/05_system_final_advice.html"><strong aria-hidden="true">8.4.</strong> Final Advice</a></li></ol></li><li class="chapter-item expanded "><a href="../09_experience_interview/01_experience_purpose.html"><strong aria-hidden="true">9.</strong> Experience Interview</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../09_experience_interview/02_experience_fit.html"><strong aria-hidden="true">9.1.</strong> Fit</a></li><li class="chapter-item expanded "><a href="../09_experience_interview/03_experience_leveling.html"><strong aria-hidden="true">9.2.</strong> Leveling</a></li><li class="chapter-item expanded "><a href="../09_experience_interview/04_experience_follow_up.html"><strong aria-hidden="true">9.3.</strong> Followup</a></li></ol></li><li class="chapter-item expanded "><a href="../10_conclusions/01_take_aways.html"><strong aria-hidden="true">10.</strong> Takeaways</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div class="custom-header">
+  <a
+    href="https://docs.google.com/viewer?url=https://github.com/nezaj/jobsearch-content/raw/master/build/book/job_search.pdf"
+    class="custom-menu-item"
+    target="_blank">
+    Course PDF
+  </a>
+  <a 
+    class="custom-menu-item"
+    href="http://eepurl.com/gkf9pj"
+    target="_blank">
+    Keep in touch :)
+  </a>
+</div>
+
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">Senior Engineer Jobsearch</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        <a href="https://github.com/nezaj/jobsearch-content" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h2><a class="header" href="#interview-process-ramp-up" id="interview-process-ramp-up">Interview Process: Ramp Up</a></h2>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/k4DNVI2WvK0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>Now that we have our foundations, the next steps are connecting with target companies. Our goals for this section are the following:</p>
+<ul>
+<li>Identify a list of target companies based on narrative</li>
+<li>Craft a resume which communicates relevant signal for your target level</li>
+<li>Start the interview process at target companies through referrals, reach-outs, or direct applications</li>
+</ul>
+<p>In addition we recommend you create two more things:</p>
+<h3><a class="header" href="#status-document-external" id="status-document-external">Status document (external)</a></h3>
+<p>This is where you list the companies in your funnel, what stage you are at with each, and your current todos. We recommend you use something like Dropbox Paper or Google Docs so you can share this document with your community. This will help you stay on top of things and provide visibility to your team. It can be intimidating to share, but the support you receive will be worth it.</p>
+<h3><a class="header" href="#progress-document-internal" id="progress-document-internal">Progress document (internal)</a></h3>
+<p>This is where you record your progress throughout the job search. It will include links to your code solutions, performance on interviews, and impressions of companies. Keeping notes about your impressions will be helpful in the choosing process. Furthermore, building a bank of practice questions, real questions, and personal observations will be useful for future interview cycles. At the end of your job search you can synthesize this document into a list of take-aways.</p>
+<p>Let's dive in deeper.</p>
+<h3><a class="header" href="#identify-target-companies" id="identify-target-companies">Identify Target Companies</a></h3>
+<p>Based on your <strong>narrative</strong> defined earlier, come up with a list of 10-15 companies you want to meet. There will be some companies that are more interesting to you than others. Bucket the list into two groups -- back-ups and top choices. Going forward, schedule interviews such that you interview with your back-ups first and then your top choices. This way you can get some real practice before speaking with your dream companies. Real practice is useful in all stages:</p>
+<ul>
+<li>Recruiter calls: You will be comfortable explaining your expectations and dealing with push-back</li>
+<li>Technical screens: You will be acclimated to the live interview jitters and have time to correct issues from earlier screens</li>
+<li>Onsites: You will be used to the full-day loop and polished any/all weak spots in different interview types</li>
+<li>Offer stage: By having offer talks with back-up companies first, you will be prepped for push-back and able to respond in a firm yet classy way.</li>
+</ul>
+<p><strong>Timing</strong> is key.</p>
+<h3><a class="header" href="#craft-a-resume" id="craft-a-resume">Craft a resume</a></h3>
+<p>Your resume can play a huge role in determining your level. If you have 4-5 years experience you may be a borderline candidate for L4/L5. If you want the senior level, your resume needs to convey L5 signal. This will help ensure your recruiter designs an L5 interview loop for you. Similarly, this will make your case stronger for the hiring committee. Refer back to <strong>Signal</strong> and <strong>Leveling</strong> and see some example resumes attached in this module.</p>
+<h3><a class="header" href="#get-noticed" id="get-noticed">Get noticed</a></h3>
+<p>Referrals are the best way to get into the recruiting process. Most companies want and prioritize referrals -- so much so that they offer 5-10k bonuses to employees. Identify people you know from your target list of companies and reach out. They will most likely be happy to help. If you're unsure of who you know, go to LinkedIn and search for people who work at your target companies -- LinkedIn will show you closest connections first.</p>
+<p>If you don't know anyone currently at the company, look at 2nd connections who work at the company and the mutual friends you two share. You can ask your friend how close their relationship is with that person. If they have a good relationship, your friend can pass along your resume to them. This is another good way in.</p>
+<p>If you absolutely can't think of a way to get a referral, feel free to send in a direct application. You can certainly get noticed this way, In our experience referrals are truly the best way to go. Of the 20+ onsites we did, every single loop was initiated through a referral of some kind.</p>
+<h3><a class="header" href="#homework" id="homework">Homework</a></h3>
+<ul>
+<li>Create a list of 10-15 companies you want to meet. Bucket this list into two groups: back-ups and top choices</li>
+<li>Craft a resume conveying signal for your target level. Have friends look over it.</li>
+<li>Reach out to your network and get referrals. Send direct applications as a last resort</li>
+<li>Create an external status document and an internal progress document for tracking your job search.</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="../04_interview_phases/01_overview.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="../04_interview_phases/03_recruiter_screen.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="../04_interview_phases/01_overview.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="../04_interview_phases/03_recruiter_screen.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+        <!-- Google Analytics Tag -->
+        <script type="text/javascript">
+            var localAddrs = ["localhost", "127.0.0.1", ""];
+
+            // make sure we don't activate google analytics if the developer is
+            // inspecting the book locally...
+            if (localAddrs.indexOf(document.location.hostname) === -1) {
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+                ga('create', 'UA-85735847-3', 'auto');
+                ga('send', 'pageview');
+            }
+        </script>
+        
+
+        
+        
+        
+        <script type="text/javascript">
+            window.playpen_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>
