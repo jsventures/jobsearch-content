@@ -41,4 +41,4 @@ Once you have negotiated a package that you are willing to sign, ask your recrui
 If you've made it this far and signed -- congratulations! An exciting new adventure awaits you. All that is left on your part is concluding / sharing the news with your community.
 
 [negotiate]: https://www.kalzumeus.com/2012/01/23/salary-negotiation/
-[negotiate-levels]: www.levels.fyi
+[negotiate-levels]: https://www.levels.fyi

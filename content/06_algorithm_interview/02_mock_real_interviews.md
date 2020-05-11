@@ -28,6 +28,6 @@ Do these after completing the homework from the previous section on foundations.
 
 If you're doing well in your practice interviews you should be ready for your real technical screens!
 
-[algo-pramp]: www.pramp.com
-[algo-interviewing]: www.interviewing.io
+[algo-pramp]: https://www.pramp.com
+[algo-interviewing]: https://www.interviewing.io
 
