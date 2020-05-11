@@ -14,10 +14,16 @@
     color: var(--sidebar-active);
 }
 
+/* Over-rides from auto-generated styles */
+
 #menu-bar-hover-placeholder {
   height: auto !important
 }
 
 .page {
   margin-top: auto !important
+}
+
+.nav-chapters {
+  margin-top: 50px !important
 }
