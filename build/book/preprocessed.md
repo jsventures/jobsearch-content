@@ -606,7 +606,7 @@ A recruiter may ask at this stage what your expected compensation is. To get an 
 ### Homework
 * Read [patio11's salaray negotiation article][patio11]
 
-[levels]: www.levels.fyi
+[levels]: https://www.levels.fyi
 [patio11]: https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 
 ## Technical Screen
@@ -695,7 +695,7 @@ Once you have negotiated a package that you are willing to sign, ask your recrui
 If you've made it this far and signed -- congratulations! An exciting new adventure awaits you. All that is left on your part is concluding / sharing the news with your community.
 
 [negotiate]: https://www.kalzumeus.com/2012/01/23/salary-negotiation/
-[negotiate-levels]: www.levels.fyi
+[negotiate-levels]: https://www.levels.fyi
 ## Concluding
 Congratulations for making it this far. Hopefully you feel some relief after signing the offer. It's been a long journey, and we hope you are excited about your next opportunity. Although your job search is done, we recommend you do a couple more things to conclude well.
 
@@ -842,8 +842,8 @@ Do these after completing the homework from the previous section on foundations.
 
 If you're doing well in your practice interviews you should be ready for your real technical screens!
 
-[algo-pramp]: www.pramp.com
-[algo-interviewing]: www.interviewing.io
+[algo-pramp]: https://www.pramp.com
+[algo-interviewing]: https://www.interviewing.io
 
 
 # UI Interview
