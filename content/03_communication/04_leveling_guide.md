@@ -81,7 +81,7 @@ You own the success of a significant system. You often find ways to improve that
 
 ***People Expectations***
 
-As a technical leader of the team, you are a strong partner to your Engineering Manager and a mentor for others. You may take on aspects of engineering management or product management, from leading standups to communicating progress, to hiring. You know how to work throughout different organizations to align and unblock large projects, and have done that multipl times. 
+As a technical leader of the team, you are a strong partner to your Engineering Manager and a mentor for others. You may take on aspects of engineering management or product management, from leading standups to communicating progress, to hiring. You know how to work throughout different organizations to align and unblock large projects, and have done that multiple times. 
 
 You work with your engineering manager to make sure people are developing well on your team, and often step in to mentor some of them to improve. You constantly work to make people around your productive and content -- from introducing new best practices, to making development more ergonomic.
 
