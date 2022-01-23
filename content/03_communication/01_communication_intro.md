@@ -9,7 +9,7 @@ With the recruiter, they will talk to them as a friend, and let them lead the co
 
 Now, this is on the right track. Being yourself is good — actually, it’s critical — if you pretend, it’ll come through, and at the end of the day, you want to work a place where they want to work with *you.*
 
-However, there’s a there’s a BIG misconception here —
+However, there’s a BIG misconception here —
 
 The misconceptions it that *being you* is actually coming through to the interviewer.
 
