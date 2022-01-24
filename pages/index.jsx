@@ -33,12 +33,12 @@ function NavSection({ items }) {
   return (
     <>
       <NavLink
-        className="block mb-8 lg:mb-3 font-semibold text-slate-900"
+        className="block mb-3 lg:mb-2 font-semibold text-slate-900"
         href={`#${first.slug}`}>
         {first.navTitle}
       </NavLink>
       {rest.length ? (
-        <ul className="space-y-6 lg:space-y-2 border-l border-slate-100">
+        <ul className="space-y-4 lg:space-y-2 border-l border-slate-100">
           {rest.map(({ navTitle, slug }, idx) => {
             return (
               <li key={idx}>
@@ -162,7 +162,7 @@ export default function Home({ content, home }) {
           content="Land your dream offer in 100 days. Jobsearch course for engineers in major tech hubs. Training in the Mental Game, Communication, and nailing the Algorithms, UI, System Design, Experience Interviews."
         />
       </Head>
-      <div className="relative h-screen md:flex p-4">
+      <div className="relative h-screen md:flex">
         <div
           className={`
           h-full
@@ -174,14 +174,15 @@ export default function Home({ content, home }) {
           insavet-y-0 left-0 transform 
           md:relative md:translate-x-0 
           transition duration-200 ease-in-out
+          border-r
           ${isMobileMenuOpen ? null : "-translate-x-full"}
         `}>
-          <ul className="text-xs -mt-4">
-            <button
-              className="md:hidden text-black absolute right-4 mt-4"
-              onClick={() => setIsMobileMenuOpen(false)}>
+          <div className="md:hidden text-black sticky right-0 top-0 z-10 bg-white flex px-4 pb-4 pt-4">
+            <button onClick={() => setIsMobileMenuOpen(false)}>
               <XIcon />
             </button>
+          </div>
+          <ul className="text-xs relative px-4 -mt-4 md:mt-0">
             {content.map((items, idx) => (
               <li className="mt-4" key={idx}>
                 <NavSection key={idx} items={items} />
@@ -189,7 +190,7 @@ export default function Home({ content, home }) {
             ))}
           </ul>
         </div>
-        <div className="h-full overflow-scroll flex-1 md:pl-4">
+        <div className="h-full overflow-scroll flex-1 p-4">
           <div style={{ maxWidth: 650 }}>
             <div className="text-sm mb-4 font-medium text-slate-700 flex items-center -ml-4">
               <button
