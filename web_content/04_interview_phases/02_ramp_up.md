@@ -1,7 +1,5 @@
 ## Interview Process: Ramp Up
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/k4DNVI2WvK0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Now that we have our foundations, the next steps are connecting with target companies. Our goals for this section are the following:
 
 * Identify a list of target companies based on narrative

@@ -1,7 +1,5 @@
 ## Experience Interview: Follow-up Questions
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/2gOxBrFDkBg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 We already discussed that the best way to communicate culture is from your homework in Mental Game and the best way to communicate your level is from your homework in Communication.
 
 At the end of the interview, you’ll have an opportunity to ask questions — you are speaking to a senior leader — and they could give you excellent context on how it’s really like to work at the company.

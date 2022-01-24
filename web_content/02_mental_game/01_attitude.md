@@ -1,7 +1,5 @@
 ##  Attitude
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/sVbCslWivzk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Most people dread the job search. They may think they are being judged, or they may think that, the process is silly.  You’ll hear “Interview questions don’t measure your real performance”, or “Agh, I just want this to be over with”.
 
 This kind of attitude causes a self-fulfilling prophecy. When you dread something, or if you think it’s silly, you spend very little time on it. If you spend very little time on it, your results will reflect — you’ll see negative interview experiences, negative recruiter conversations, and it will all feed back into your attitude. Now, if this makes you take the first job you see, because “you want this to be over with”,  and it’s not the best opportunity for you, you’ve just paid a high price for this attitude.

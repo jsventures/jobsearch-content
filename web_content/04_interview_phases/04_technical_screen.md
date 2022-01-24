@@ -1,7 +1,5 @@
 ## Technical Screen
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/q-SJZyn9AoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 A typical technical screen will be a 60 minute chat with an engineer. You will most likely use some online collaborative IDE like Coderpad, Codepen, HackerRank, etc. The crux of this interview is to complete the technical question. Although the interview is scheduled for an hour, you should only expect 45 minutes to solve the question. In general, for any technical interview you should estimate five minutes for introductions, five minutes for problem exploration and/or setup, and five minutes post-question to ask your interviewer questions about the company. That means if a technical interview is scheduled for 40 minutes you should aim to solve all the problems/parts (expect a problem to have multiple parts) in 25 minutes or less. This means you need to move **fast**.
 
 For generalist/back-end roles you will most likely be asked an algorithm question. For front-end/UI roles you will likely be asked either an algorithm or UI question. Always clarify with your recruiter on what you should expect. For more information on interview types and success see **Algorithm Interviews** and **UI Interviews**

@@ -1,7 +1,5 @@
 ## System Design: Going Deep
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/aB5ov6apSZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Now that we’ve gone broad, it’s time to go **deep**.
 
 At this point in the interview we’ve noted down a bunch of tradeoffs and problems remaining to be solved. It’s time do demonstrate our expertise by going deep.

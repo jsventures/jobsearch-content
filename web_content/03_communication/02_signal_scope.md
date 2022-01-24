@@ -1,7 +1,5 @@
 ## Signal & Scope
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/uKGzkt1QiZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 The first step to learning the language of the interview is to understand the other side of the table -- what are interviewers trying to do?
 
 If you were dropped inside a hiring committee (the place where they decide your offer) you would get a clue, because they would use a few words, over and over and over again to describe your performance.

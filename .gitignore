@@ -1,4 +1,3 @@
-# mdbook
-web_build
-# Deritus
 .DS_Store
+node_modules
+.next

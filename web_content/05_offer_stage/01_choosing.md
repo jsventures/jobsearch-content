@@ -1,7 +1,5 @@
 ## Choosing
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/AbIPg_HOSE8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 After your onsites you may find yourself in the fortunate yet uncertain position of choosing between multiple companies. This can be a tough decision. Here are some tips we used to decide:
 
 * Get centered. Go back to your narrative and ask yourself what is most important to you. What are your goals? How does each company fit with your desired path.

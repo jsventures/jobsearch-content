@@ -1,7 +1,5 @@
 ## Recruiter Screens
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/1LS6-9YAp5M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 The recruiter screen is usually the first conversation you have with a company. These interviews are rarely technical and meant to get you and the company acquainted. You are pretty much guaranteed to go to the next stage so no need to worry about "failing" this interview.
 
 Your goal is to clearly communicate your narrative and expectations. For example, if you're expecting to be leveled as an L6, it is critical you let your recruiter know early on. They may push back or tell you that leveling is determined post interview -- that's fine. Be firm with your expectations, make it clear you are open to interviewing and explain the **scope** you are looking for so your recruiter understands why you want this level. It will help your recruiter build the right interview loop and the right case for the hiring committee.

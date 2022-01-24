@@ -1,7 +1,5 @@
 ## Before the System Design interview
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/jhseQBR8RjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 In a system design interview, you’ll meet a senior engineering leader, who’s going to ask you an open-ended question: It can be something like “Let’s create a feed for Twitter”, or “Let’s implement a Hotel Booking System”.
 
 Your goal will be to grab the helm for the next 45 minutes, crystallize the problem, and architect a system that solves it. This will demonstrate your ability and experience in your technical leadership.

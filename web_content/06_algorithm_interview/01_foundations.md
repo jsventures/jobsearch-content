@@ -1,7 +1,5 @@
 ## Algorithm Interview Foundations
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/MITOJgHG_GQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 The algorithm interview is typically a 60 minute chat with an engineer in which you solve a technical problem. The expectation is to have a working solution before the end of the interview, with time left over to ask the interviewer questions about the company. The beginning of the interview will include introductions and problem explanation as well. You should aim to solve the problem and all of its parts within 30 minutes. There is a general framework for how to solve the problem which involves:
 
 * Ask clarifying questions

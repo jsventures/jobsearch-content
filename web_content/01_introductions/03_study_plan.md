@@ -1,4 +1,5 @@
 ## Study Plan
+
 To best utilize this course, we’ve prepared a 3-month study plan for you
 
 ### W1: Foundations, Key Concepts, Ramp-Up

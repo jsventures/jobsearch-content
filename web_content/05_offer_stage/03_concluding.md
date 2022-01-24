@@ -1,7 +1,5 @@
 ## Concluding
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/RaJKY--onrs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Congratulations for making it this far. Hopefully you feel some relief after signing the offer. It's been a long journey, and we hope you are excited about your next opportunity. Although your job search is done, we recommend you do a couple more things to conclude well.
 
 ### Inform other companies

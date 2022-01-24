@@ -1,7 +1,5 @@
 ## Negotiating
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/4lBaOCzaSrg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 In our opinion the best negotiations are short and concise. We recommend to do this over email. Ask yourself what package would make you sign immediately and send over those numbers to your recruiter. Your email could look something like this:
 
 ```

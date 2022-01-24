@@ -2,20 +2,21 @@
 
 Repo for course.jobsearch.dev
 
-### Building the static site (web_content)
+### Developing static site
 
-To build the site, make sure you have rust installed, then install mdbook.
+We run on next. 
 
-1. Go to [this site](https://www.rust-lang.org/tools/install) for a quick curl to install rust & cargo
-2. Then run `cargo install mdbook`
-3. Once done, you can run `make dev`, and view the beauty on localhost:3000
+```
+npm i
+npm run dev
+```
 
 ### Deploying the static site
 
-We use github pages to host our static content. Deploying is easy:
+The site is deployed on vercel
 
 ```
-make deploy
+git push
 ```
 
 ### Building the pdf e-book (content -> build)
@@ -43,25 +44,12 @@ pip install MarkdownPP
 ```
 
 After installing all dependencies you can re-generate a fresh copy of the book by running
+
 ```
 make book
 ```
 
 The book should now open up in preview. If it doesn't you can find it under the `build` folder
-
-### Building transcripts (deprecated)
-*Previously we would use this to re-generate individual PDFs of our content. This is somewhat deprecated now given that we use mdbook
-to serve a static site and have no need to link to individual transcripts. Nonetheless will keep this for now and potentially
-delete it later.*
-
-You can build all the transcripts by running the following command
-```
-make all-transcripts
-```
-You can build an individual transcript by doing the following
-```
-FILE=path/to/raw/file.md make transcript
-```
 
 ## Notes
 
@@ -91,3 +79,7 @@ We decide to remove signup. This means:
     - We use Wordpress with WPEngine to host the landing page and email sign up
     - We use mailchimp to collect emails
     - We use Github pages with a custom to host the static content
+
+#### V2: January 2022 (Revamp)
+- Merge jobsearch.dev and course.jobsearch.dev
+- Use next.js instead of mdbook and friends

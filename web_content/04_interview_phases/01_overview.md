@@ -1,7 +1,5 @@
 ## Interview Process Overview
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/AHZ9P7JvoV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 A full loop with a company will look something like this:
 
 * Recruiter chat

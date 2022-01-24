@@ -1,7 +1,5 @@
 ## Leveling
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/uzGXnyjB2oA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 So far, we learned about signal and scope, and we learned that our goal in the interview is to *maximize signal* and to communicate as much as possible, exactly where we’re at with engineering, technical leadership, and people leadership.
 
 Now, once we’ve sent that signal — what do interviewers do with this information?
