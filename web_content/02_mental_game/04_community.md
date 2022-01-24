@@ -1,7 +1,5 @@
 ## Community
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/NYk1y707g1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Now that you **love** the job search and you know *exactly* what you’re looking for. Let’s take a look at **how** to approach the job search.
 
 Most people look at the job search as an independent activity. They think up the job that they want, they apply to them, they prepare the best they can, negotiate the best they can, and then choose the best they can.

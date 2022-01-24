@@ -1,9 +1,6 @@
 ## Course Introduction
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/5-Cq91iGfdQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Joe: Hey everyone, my name is Joe.
-
 
 Stepan: And my name is Stepan.
 

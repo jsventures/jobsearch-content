@@ -1,7 +1,5 @@
 ## System Design: Final Advice
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/Aa2ot32wVRI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 In this section we’ll discuss how to prepare and give some final advice for the system design interview. Let’s get right to it.
 
 ### Internalize the phases of the interview

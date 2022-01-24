@@ -1,7 +1,5 @@
 ## Experience Interview: Purpose
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/cQ-JVbDTm-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 In this section we’ll introduce the experience interview and discuss its purpose.
 
 When you walk into the experience interview, you’ll meet a senior engineer or a manager. Over the next 45 minutes, they’ll ask you a bunch of personal questions — things like:

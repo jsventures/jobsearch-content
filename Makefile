@@ -79,17 +79,4 @@ transcript:
 		mkdir -p $$NEW_DIR; \
 		pandoc $$file -o $$NEW_FILE; \
 	done
-
-dev:
-	mdbook serve
-
-deploy:
-	mdbook build
-	touch $(WEB_BUILD_DIR)/.nojekyll # gh-pages needs to know that this does not use jekyll
-	cp CNAME $(WEB_BUILD_DIR)/CNAME # gh-pages custom subdomain
-	git checkout -B gh-pages
-	git add -f $(WEB_BUILD_DIR)
-	git commit -am "Rebuild website"
-	git filter-branch -f --prune-empty --subdirectory-filter $(WEB_BUILD_DIR)
-	git push -f origin gh-pages
-	git checkout -
+	

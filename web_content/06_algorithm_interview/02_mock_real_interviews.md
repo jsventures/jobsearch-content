@@ -1,7 +1,5 @@
 ## Mock and Real Algorithm Interviews
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/9MLXuHCoWgY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Once you have your foundations it's time to do some mock interviews. There is a difference between solving problems on your own vs in front of someone else. For example:
 
 * Throughout the interview you need to communicate your thought process out loud, verbalize time/space complexity, and collaborate with the interviewer.

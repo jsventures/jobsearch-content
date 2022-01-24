@@ -1,7 +1,5 @@
 ## System Design Interview: The Functional Spec
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/F5pl83ZNJxo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 The question you get asked will be ambiguous. Your goal for the first phase of the interview is to take that problem, and make it concrete.
 
 To show great signal here, you’ll want to demonstrate leadership by taking initiative and leading the discussion. With very little prodding, you should be able to flesh out all the requirements for your system.

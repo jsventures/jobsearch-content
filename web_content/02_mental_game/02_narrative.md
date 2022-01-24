@@ -1,7 +1,5 @@
 ## Narrative
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/GtpHy0AslOs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Now, that you *love* the job search, let’s talk about how you see your career.  If we were to ask you "why did you join your last job?" What would your answer be? How about "What did you do there", or "Why are you leaving?"
 
 Most people spend *very little time* thinking about these questions. Let's go over some examples.

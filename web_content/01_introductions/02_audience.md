@@ -1,4 +1,5 @@
 ## Audience
+
 This course is designed for the following candidates:
 
 * Software Engineers specializing in front-end, back-end, or full-stack web development

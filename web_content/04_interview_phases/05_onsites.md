@@ -1,7 +1,5 @@
 ## Onsites
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/O4_EWcrzaPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 The onsite is typically the last stage with a company in the interviewing process. If you do well here you should expect to receive the offer. You should expect to spend between 4-7 hours at the office. You will meet a lot of people and be asked a lot of questions. There are several types of interviews you will encounter that day:
 
 * Algorithm: Similar format and difficulty as the technical screen. See the section on **Algorithm Interview**

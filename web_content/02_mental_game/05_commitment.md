@@ -1,7 +1,5 @@
 ## Commitment
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/p1hJ-Qnqdwk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 You have now learned to *love* the job search. You have a *strong* narrative and are on an exciting journey with your career, supported by a team of peers and mentors. Now we reach the final step in the mental game — what kind of *commitment* will you make to the job search?
 
 You can divide up the search into 3 parts:

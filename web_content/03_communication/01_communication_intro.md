@@ -1,7 +1,5 @@
 ## Communication Introduction
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/Y1_XaVzO1bA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 What do you think your goal is when talking to a recruiter? In our experience, most people spend very little time thinking about this. Some will say it’s just a "performance" — they feel like they’re going through the motions
 
 From our video on attitude, you can get the idea of the self-fulfilling prophecy this will start — it’s hard to get good at something that has no meaning.

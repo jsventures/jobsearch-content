@@ -1,7 +1,5 @@
 ## UI Interview
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/tyBqWvHLon4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Let’s go over the UI Engineering Interview.
 
 We think this is one of the most fun interviews, because it’s the interview that’s most relevant to your day to day work as an UI engineer.
