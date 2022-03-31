@@ -37,7 +37,6 @@ You communicate well, and are proactively updating everyone around you about the
 
 ***Live Leveling Guides***
 
-- **[Patreon Leveling Guide][patreon-level]**: See "IC 1" for the lower range, and "IC 2" for the higher range. You can ignore parts in IC 2 that involves supporting others (giving feedback to others, giving code reviews etc)
 - **[Khan Academy Leveling Guide][khan-level]**: See "Beginning Skillful" for the lower range, and "Skillful" for the higher range. You can ignore parts in Skillful related to breaking down complex tasks and supporting others
 
 ### Engineer
@@ -61,7 +60,6 @@ You give great code reviews to peers and junior engineers. You are a great mento
 
 ***Live Leveling Guides***
 
-- **[Patreon Leveling Guide][patreon-level]**: See "IC 2"
 - **[Khan Academy Leveling Guide][khan-level]**: See "Skillful"
 
 ### Senior Engineer
@@ -87,7 +85,6 @@ You work with your engineering manager to make sure people are developing well o
 
 ***Live Leveling Guides***
 
-- **[Patreon Leveling Guide][patreon-level]**: See "IC 3"
 - **[Khan Academy Leveling Guide][khan-level]**: See "Super Skillful"
   
 ### Staff Engineer
@@ -113,9 +110,8 @@ You champion the people around you, and constantly work to make the whole org mo
 
 ***Live Leveling Guides***
 
-- **[Patreon Leveling Guide][patreon-level]**: See "IC 4" to "IC 5"
 - **[Khan Academy Leveling Guide][khan-level]**: See "Ludicrously Skillful"
 
-[patreon-level]: https://levels.patreon.com/
+
 [khan-level]: https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/
 
